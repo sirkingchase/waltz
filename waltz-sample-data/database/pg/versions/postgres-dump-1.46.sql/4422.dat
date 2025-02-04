@@ -1,0 +1,11 @@
+BOOK	Book Data	Book Data	1000	\N	t	f	2020-06-24 22:14:55.160787	f
+PARTY	Counterparty etc.	Party Data	2000	\N	t	f	2020-06-24 22:14:55.167331	f
+PRICING	Pricing Data	Pricing Data	3000	\N	t	f	2020-06-24 22:14:55.175872	f
+TRADE	Transactions etc.	Trade Data	4000	\N	t	f	2020-06-24 22:14:55.183988	f
+RATE	Interest rates etc	Rates	5000	\N	t	f	2020-06-24 22:14:55.1925	f
+CURRENCY	Currencies etc	Currency	6000	\N	t	f	2020-06-24 22:14:55.200761	f
+VIRTUAL_CURRENCIES	Virtual Currencies	Virtual Currencies eg: Bitcoin	6100	6000	t	f	2020-06-24 22:14:55.20917	f
+UNKNOWN	Unknown	Unknown	1	\N	t	t	2020-06-24 22:14:55.217584	f
+\.
+
+

@@ -1,0 +1,8 @@
+1	LICENCE	Conditions	Condition of the license or active requirement that must be met for license compliance for the listed use-case(s)	t	0	\N
+2	LICENCE	Termination Provisions	License termination clause	t	0	\N
+3	LICENCE	Licence Versioning	Information related to how other versions of the same license may be applied	t	0	\N
+4	LICENCE	Other Terms	Other clauses may modify conditions or trigger requirement on different use-cases than the four defined here	t	0	\N
+5	APP_GROUP	Report Grid Filter Preset	 which drives population of an app group based on running a grid with a set of filters	f	0	WALTZ_REPORT_GRID_FILTER_PRESET
+\.
+
+

@@ -1,0 +1,37 @@
+10	CEO Office	\N	\N	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.277	\N	waltz	waltz	waltz
+20	CIO Office	\N	10	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.277	\N	waltz	waltz	waltz
+30	COO Office	\N	10	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+40	CTO Office	\N	10	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+50	Front Office	\N	30	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+60	Head of CONTROL	\N	30	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+70	Market Risk	\N	60	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+80	Credit Risk	\N	60	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+90	Liquidity Risk	\N	60	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+100	Treasury	\N	60	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+110	Finance	\N	60	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+120	Compliance	\N	60	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+130	Fraud	\N	60	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+140	Operations	\N	50	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+150	Equities	\N	50	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+160	Fixed Income	\N	50	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+170	FX	\N	50	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+180	Research	\N	50	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+190	Enterprise Systems	\N	20	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+200	Operation IT	\N	20	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+210	Risk IT	\N	20	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+220	Market Risk IT	\N	210	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+230	Credit Risk IT	\N	210	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+240	Liquidity Risk IT	\N	210	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+250	Treasury IT	\N	20	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+260	Front Office IT	\N	50	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+270	Equities IT	\N	260	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.278	\N	waltz	waltz	waltz
+280	Fixed Income IT	\N	260	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.279	\N	waltz	waltz	waltz
+290	FX IT	\N	260	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.279	\N	waltz	waltz	waltz
+300	Research IT	\N	260	2020-06-24 22:14:55.295962	2020-06-24 22:14:55.279	\N	waltz	waltz	waltz
+1000001	Root Name	Root Desc	\N	2022-08-27 22:43:49.489676	2022-08-27 21:43:49.485	\N	waltz	admin	integration-test
+1000002	Org Unit A Name	Org Unit A Desc	1000001	2022-08-27 22:43:49.495465	2022-08-27 21:43:49.494	\N	waltz	admin	integration-test
+1000003	Org Unit B Name	Org Unit B Desc	1000001	2022-08-27 22:43:49.501038	2022-08-27 21:43:49.499	\N	waltz	admin	integration-test
+1000004	Org Unit C Name	Org Unit C Desc	1000002	2022-08-27 22:43:49.507458	2022-08-27 21:43:49.505	\N	waltz	admin	integration-test
+\.
+
+

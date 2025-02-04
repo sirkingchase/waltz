@@ -1,0 +1,7 @@
+4	Total	A calculated overall complexity score based upon Connection, Viewpoint and Server complexity scores	TOTAL	f
+1	Connection	A calculated complexity score based upon the number of logical flow connections relative to a baseline value	CONNECTION	f
+2	Viewpoint	A calculated complexity score based upon the number of viewpoint ratings relative to a baseline value	MEASURABLE	f
+3	Server	A calculated complexity score based upon the number of servers relative to a baseline value	SERVER	t
+\.
+
+

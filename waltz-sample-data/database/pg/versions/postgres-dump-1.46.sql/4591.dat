@@ -1,0 +1,26 @@
+1	APPLICATION	kind	Asset Kind	The type of asset. e.g. EUC, Third Party, In House
+2	APPLICATION	commission_date	Commission Date	The date the application was commissioned
+3	APPLICATION	planned_retirement_date	Planned Retirement Date	The planned retirement date of the application
+4	APPLICATION	actual_retirement_date	Actual Retirement Date	The actual retirement date of the application
+5	SURVEY_INSTANCE	status	Status	The status of the survey instance
+6	SURVEY_INSTANCE	submitted_at	Submitted At	When the survey was submitted
+7	SURVEY_INSTANCE	submitted_by	Submitted By	Who submitted the survey
+8	SURVEY_INSTANCE	approved_at	Approved At	When the survey was approved
+9	SURVEY_INSTANCE	approved_by	Approved By	Who approved the survey
+10	SURVEY_INSTANCE	due_date	Due Date	The date the survey is due to be submitted
+11	SURVEY_INSTANCE	approval_due_date	Approval Due Date	The date the survey is due to be approved
+12	CHANGE_INITIATIVE	kind	Kind	The kind of the change initiative
+13	CHANGE_INITIATIVE	start_date	Start Date	The start date of the change initiative
+14	CHANGE_INITIATIVE	end_date	End Date	The end date of the change initiative
+15	ORG_UNIT	name	Name	The name of the owning organisational unit
+16	ORG_UNIT	description	Description	The description of the owning organisational unit
+17	ORG_UNIT	external_id	External Id	The external identifier of the owning organisational unit
+18	CHANGE_INITIATIVE	description	Description	The description of the change initiative
+19	CHANGE_INITIATIVE	parent_external_id	Parent External Id	The external identifier of the parent change initiative
+20	APPLICATION	description	Description	The description of the application
+21	SURVEY_INSTANCE	issued_on	Issued On	The date the survey run was issued
+22	SURVEY_INSTANCE	instance_name	Instance Name	The name of the survey instance
+23	SURVEY_INSTANCE	run_name	Run Name	The name of the survey run
+\.
+
+

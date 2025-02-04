@@ -1,0 +1,235 @@
+1	\N	EXT1	Restructure Auditor Operations	INITIATIVE	PRODUCTION	Restructure Auditor Operations	\N	2020-06-24	2022-01-19	waltz-sample	300
+2	1	EXT2_1	Restructure Compliance Operations	PROGRAMME	DEVELOPMENT	Restructure Compliance Operations	\N	2020-06-24	2022-05-14	waltz-sample	10
+3	2	EXT3_2	Adapt to Governance Initiatives	PROJECT	RETIRED	Adapt to Governance Initiatives	\N	2020-06-24	2021-11-19	waltz-sample	290
+4	2	EXT4_2	Prioritise Tactical Trends	PROJECT	RETIRED	Prioritise Tactical Trends	\N	2020-06-24	2022-02-03	waltz-sample	160
+5	2	EXT5_2	Invest in Governance Trends	PROJECT	DEVELOPMENT	Invest in Governance Trends	\N	2020-06-24	2021-02-01	waltz-sample	190
+6	1	EXT6_1	Lower Customer Trends	PROGRAMME	CONCEPTUAL	Lower Customer Trends	\N	2020-06-24	2022-04-29	waltz-sample	270
+7	6	EXT7_6	Enhance Compliance Processes	PROJECT	PRODUCTION	Enhance Compliance Processes	\N	2020-06-24	2021-07-17	waltz-sample	240
+8	\N	EXT8	Undertake Governance Aggregation	INITIATIVE	DEVELOPMENT	Undertake Governance Aggregation	\N	2020-06-24	2020-08-03	waltz-sample	210
+9	\N	EXT9	Adapt to Regulatory Reporting	INITIATIVE	CONCEPTUAL	Adapt to Regulatory Reporting	\N	2020-06-24	2020-07-26	waltz-sample	80
+10	\N	EXT10	Deliver Auditor Processes	INITIATIVE	RETIRED	Deliver Auditor Processes	\N	2020-06-24	2021-09-19	waltz-sample	60
+11	10	EXT11_10	Reduce Business Initiatives	PROGRAMME	DEVELOPMENT	Reduce Business Initiatives	\N	2020-06-24	2020-10-13	waltz-sample	140
+12	\N	EXT12	Lead Business Reporting	INITIATIVE	DEVELOPMENT	Lead Business Reporting	\N	2020-06-24	2021-02-27	waltz-sample	170
+13	12	EXT13_12	Undertake Global Structures	PROGRAMME	PRODUCTION	Undertake Global Structures	\N	2020-06-24	2022-06-05	waltz-sample	40
+14	13	EXT14_13	Enhance Market Processes	PROJECT	DEVELOPMENT	Enhance Market Processes	\N	2020-06-24	2022-03-12	waltz-sample	130
+15	13	EXT15_13	Lead Compliance Reporting	PROJECT	DEVELOPMENT	Lead Compliance Reporting	\N	2020-06-24	2020-08-28	waltz-sample	260
+16	13	EXT16_13	Restructure Customer Operations	PROJECT	CONCEPTUAL	Restructure Customer Operations	\N	2020-06-24	2021-05-31	waltz-sample	190
+17	12	EXT17_12	Deliver Auditor Standards	PROGRAMME	CONCEPTUAL	Deliver Auditor Standards	\N	2020-06-24	2021-07-05	waltz-sample	70
+18	\N	EXT18	Analyze Compliance Reporting	INITIATIVE	CONCEPTUAL	Analyze Compliance Reporting	\N	2020-06-24	2022-04-27	waltz-sample	180
+19	18	EXT19_18	Change Regional Structures	PROGRAMME	CONCEPTUAL	Change Regional Structures	\N	2020-06-24	2020-12-20	waltz-sample	220
+20	19	EXT20_19	Reduce Governance Operations	PROJECT	PRODUCTION	Reduce Governance Operations	\N	2020-06-24	2020-08-05	waltz-sample	200
+21	18	EXT21_18	Perform Auditor Initiatives	PROGRAMME	CONCEPTUAL	Perform Auditor Initiatives	\N	2020-06-24	2021-10-23	waltz-sample	290
+22	21	EXT22_21	Manage Auditor Operations	PROJECT	CONCEPTUAL	Manage Auditor Operations	\N	2020-06-24	2021-05-30	waltz-sample	260
+23	21	EXT23_21	Invest in Tactical Structures	PROJECT	PRODUCTION	Invest in Tactical Structures	\N	2020-06-24	2022-01-30	waltz-sample	220
+24	\N	EXT24	Restructure Compliance Trends	INITIATIVE	RETIRED	Restructure Compliance Trends	\N	2020-06-24	2021-04-29	waltz-sample	80
+25	\N	EXT25	Invest in Industry Trends	INITIATIVE	DEVELOPMENT	Invest in Industry Trends	\N	2020-06-24	2021-04-29	waltz-sample	260
+26	\N	EXT26	Manage Market Initiatives	INITIATIVE	DEVELOPMENT	Manage Market Initiatives	\N	2020-06-24	2020-12-16	waltz-sample	40
+27	26	EXT27_26	Analyze Business Trends	PROGRAMME	DEVELOPMENT	Analyze Business Trends	\N	2020-06-24	2021-11-10	waltz-sample	190
+28	27	EXT28_27	Invest in Business Trends	PROJECT	PRODUCTION	Invest in Business Trends	\N	2020-06-24	2021-08-13	waltz-sample	300
+29	\N	EXT29	Invest in Governance Standards	INITIATIVE	PRODUCTION	Invest in Governance Standards	\N	2020-06-24	2021-11-12	waltz-sample	10
+30	29	EXT30_29	Change Tactical Reporting	PROGRAMME	DEVELOPMENT	Change Tactical Reporting	\N	2020-06-24	2020-11-09	waltz-sample	120
+31	29	EXT31_29	Invest in Industry Standards	PROGRAMME	DEVELOPMENT	Invest in Industry Standards	\N	2020-06-24	2022-03-17	waltz-sample	260
+32	31	EXT32_31	Change Industry Operations	PROJECT	PRODUCTION	Change Industry Operations	\N	2020-06-24	2020-08-25	waltz-sample	250
+33	\N	EXT33	Restructure Business Initiatives	INITIATIVE	RETIRED	Restructure Business Initiatives	\N	2020-06-24	2021-11-05	waltz-sample	10
+34	\N	EXT34	Prioritise Regional Processes	INITIATIVE	PRODUCTION	Prioritise Regional Processes	\N	2020-06-24	2021-10-30	waltz-sample	240
+35	34	EXT35_34	Manage Customer Reporting	PROGRAMME	CONCEPTUAL	Manage Customer Reporting	\N	2020-06-24	2020-10-16	waltz-sample	260
+36	35	EXT36_35	Manage Industry Reporting	PROJECT	PRODUCTION	Manage Industry Reporting	\N	2020-06-24	2021-03-16	waltz-sample	190
+37	35	EXT37_35	Lead Regulatory Processes	PROJECT	DEVELOPMENT	Lead Regulatory Processes	\N	2020-06-24	2022-06-01	waltz-sample	230
+38	35	EXT38_35	Perform Compliance Structures	PROJECT	DEVELOPMENT	Perform Compliance Structures	\N	2020-06-24	2022-06-12	waltz-sample	260
+39	34	EXT39_34	Enhance Regulatory Processes	PROGRAMME	RETIRED	Enhance Regulatory Processes	\N	2020-06-24	2021-12-10	waltz-sample	190
+40	39	EXT40_39	Meet Compliance Standards	PROJECT	CONCEPTUAL	Meet Compliance Standards	\N	2020-06-24	2021-02-04	waltz-sample	270
+41	39	EXT41_39	Manage Regulatory Aggregation	PROJECT	RETIRED	Manage Regulatory Aggregation	\N	2020-06-24	2022-04-16	waltz-sample	240
+42	\N	EXT42	Adapt to Enterprise Processes	INITIATIVE	CONCEPTUAL	Adapt to Enterprise Processes	\N	2020-06-24	2021-03-23	waltz-sample	270
+43	42	EXT43_42	Reduce Customer Aggregation	PROGRAMME	PRODUCTION	Reduce Customer Aggregation	\N	2020-06-24	2020-12-03	waltz-sample	300
+44	43	EXT44_43	Adapt to Enterprise Standards	PROJECT	RETIRED	Adapt to Enterprise Standards	\N	2020-06-24	2021-11-13	waltz-sample	140
+45	43	EXT45_43	Analyze Governance Processes	PROJECT	PRODUCTION	Analyze Governance Processes	\N	2020-06-24	2020-07-29	waltz-sample	210
+46	42	EXT46_42	Change Compliance Reporting	PROGRAMME	PRODUCTION	Change Compliance Reporting	\N	2020-06-24	2020-12-26	waltz-sample	100
+47	46	EXT47_46	Manage Market Trends	PROJECT	DEVELOPMENT	Manage Market Trends	\N	2020-06-24	2021-10-03	waltz-sample	110
+48	\N	EXT48	Undertake Industry Trends	INITIATIVE	PRODUCTION	Undertake Industry Trends	\N	2020-06-24	2021-02-04	waltz-sample	190
+49	48	EXT49_48	Reduce Market Structures	PROGRAMME	RETIRED	Reduce Market Structures	\N	2020-06-24	2020-09-14	waltz-sample	200
+50	49	EXT50_49	Change Business Aggregation	PROJECT	CONCEPTUAL	Change Business Aggregation	\N	2020-06-24	2022-06-11	waltz-sample	60
+51	49	EXT51_49	Reduce Tactical Reporting	PROJECT	PRODUCTION	Reduce Tactical Reporting	\N	2020-06-24	2020-11-25	waltz-sample	150
+52	48	EXT52_48	Lower Enterprise Processes	PROGRAMME	DEVELOPMENT	Lower Enterprise Processes	\N	2020-06-24	2020-07-13	waltz-sample	60
+53	48	EXT53_48	Enhance Global Structures	PROGRAMME	PRODUCTION	Enhance Global Structures	\N	2020-06-24	2021-05-05	waltz-sample	140
+54	53	EXT54_53	Deliver Industry Reporting	PROJECT	PRODUCTION	Deliver Industry Reporting	\N	2020-06-24	2021-01-05	waltz-sample	160
+55	53	EXT55_53	Undertake Tactical Aggregation	PROJECT	PRODUCTION	Undertake Tactical Aggregation	\N	2020-06-24	2020-10-07	waltz-sample	280
+56	\N	EXT56	Enhance Market Processes	INITIATIVE	RETIRED	Enhance Market Processes	\N	2020-06-24	2021-10-15	waltz-sample	230
+57	56	EXT57_56	Manage Auditor Structures	PROGRAMME	RETIRED	Manage Auditor Structures	\N	2020-06-24	2021-10-08	waltz-sample	180
+58	57	EXT58_57	Deliver Customer Processes	PROJECT	DEVELOPMENT	Deliver Customer Processes	\N	2020-06-24	2021-03-27	waltz-sample	250
+59	57	EXT59_57	Adapt to Customer Reporting	PROJECT	DEVELOPMENT	Adapt to Customer Reporting	\N	2020-06-24	2020-12-08	waltz-sample	180
+60	57	EXT60_57	Lower Business Operations	PROJECT	PRODUCTION	Lower Business Operations	\N	2020-06-24	2021-08-22	waltz-sample	80
+61	56	EXT61_56	Manage Enterprise Aggregation	PROGRAMME	RETIRED	Manage Enterprise Aggregation	\N	2020-06-24	2021-12-30	waltz-sample	110
+62	61	EXT62_61	Invest in Business Processes	PROJECT	CONCEPTUAL	Invest in Business Processes	\N	2020-06-24	2021-04-26	waltz-sample	260
+63	61	EXT63_61	Undertake Enterprise Standards	PROJECT	PRODUCTION	Undertake Enterprise Standards	\N	2020-06-24	2022-05-05	waltz-sample	170
+64	56	EXT64_56	Lead Regulatory Structures	PROGRAMME	DEVELOPMENT	Lead Regulatory Structures	\N	2020-06-24	2020-09-06	waltz-sample	200
+65	\N	EXT65	Manage Tactical Operations	INITIATIVE	PRODUCTION	Manage Tactical Operations	\N	2020-06-24	2021-12-04	waltz-sample	120
+66	65	EXT66_65	Manage Customer Trends	PROGRAMME	RETIRED	Manage Customer Trends	\N	2020-06-24	2021-04-12	waltz-sample	60
+67	66	EXT67_66	Lower Customer Aggregation	PROJECT	RETIRED	Lower Customer Aggregation	\N	2020-06-24	2022-05-04	waltz-sample	280
+68	66	EXT68_66	Adapt to Enterprise Operations	PROJECT	RETIRED	Adapt to Enterprise Operations	\N	2020-06-24	2021-11-21	waltz-sample	210
+69	66	EXT69_66	Lead Business Structures	PROJECT	PRODUCTION	Lead Business Structures	\N	2020-06-24	2022-03-11	waltz-sample	110
+70	65	EXT70_65	Analyze Industry Aggregation	PROGRAMME	CONCEPTUAL	Analyze Industry Aggregation	\N	2020-06-24	2021-09-07	waltz-sample	300
+71	70	EXT71_70	Analyze Industry Initiatives	PROJECT	DEVELOPMENT	Analyze Industry Initiatives	\N	2020-06-24	2022-01-13	waltz-sample	170
+72	70	EXT72_70	Reduce Enterprise Operations	PROJECT	PRODUCTION	Reduce Enterprise Operations	\N	2020-06-24	2021-07-16	waltz-sample	300
+73	65	EXT73_65	Reduce Governance Aggregation	PROGRAMME	DEVELOPMENT	Reduce Governance Aggregation	\N	2020-06-24	2020-12-21	waltz-sample	270
+74	\N	EXT74	Prioritise Customer Processes	INITIATIVE	CONCEPTUAL	Prioritise Customer Processes	\N	2020-06-24	2022-04-04	waltz-sample	10
+75	74	EXT75_74	Manage Customer Structures	PROGRAMME	DEVELOPMENT	Manage Customer Structures	\N	2020-06-24	2022-05-01	waltz-sample	90
+76	75	EXT76_75	Change Industry Reporting	PROJECT	CONCEPTUAL	Change Industry Reporting	\N	2020-06-24	2022-05-26	waltz-sample	130
+77	74	EXT77_74	Reduce Business Processes	PROGRAMME	DEVELOPMENT	Reduce Business Processes	\N	2020-06-24	2021-09-23	waltz-sample	150
+78	77	EXT78_77	Lower Tactical Processes	PROJECT	DEVELOPMENT	Lower Tactical Processes	\N	2020-06-24	2021-12-25	waltz-sample	190
+79	74	EXT79_74	Change Governance Structures	PROGRAMME	DEVELOPMENT	Change Governance Structures	\N	2020-06-24	2020-06-25	waltz-sample	30
+80	79	EXT80_79	Undertake Market Structures	PROJECT	CONCEPTUAL	Undertake Market Structures	\N	2020-06-24	2021-03-08	waltz-sample	180
+81	\N	EXT81	Undertake Global Standards	INITIATIVE	RETIRED	Undertake Global Standards	\N	2020-06-24	2022-01-31	waltz-sample	190
+82	81	EXT82_81	Prioritise Regional Processes	PROGRAMME	DEVELOPMENT	Prioritise Regional Processes	\N	2020-06-24	2021-05-04	waltz-sample	130
+83	82	EXT83_82	Enhance Tactical Initiatives	PROJECT	DEVELOPMENT	Enhance Tactical Initiatives	\N	2020-06-24	2020-10-21	waltz-sample	100
+84	81	EXT84_81	Analyze Tactical Standards	PROGRAMME	PRODUCTION	Analyze Tactical Standards	\N	2020-06-24	2021-01-05	waltz-sample	90
+85	84	EXT85_84	Enhance Business Structures	PROJECT	RETIRED	Enhance Business Structures	\N	2020-06-24	2020-11-09	waltz-sample	300
+86	\N	EXT86	Lead Global Reporting	INITIATIVE	RETIRED	Lead Global Reporting	\N	2020-06-24	2021-06-13	waltz-sample	130
+87	86	EXT87_86	Undertake Industry Operations	PROGRAMME	PRODUCTION	Undertake Industry Operations	\N	2020-06-24	2022-03-09	waltz-sample	220
+88	87	EXT88_87	Enhance Compliance Structures	PROJECT	CONCEPTUAL	Enhance Compliance Structures	\N	2020-06-24	2022-02-13	waltz-sample	150
+89	87	EXT89_87	Change Global Aggregation	PROJECT	DEVELOPMENT	Change Global Aggregation	\N	2020-06-24	2022-05-08	waltz-sample	90
+90	86	EXT90_86	Lead Regional Aggregation	PROGRAMME	PRODUCTION	Lead Regional Aggregation	\N	2020-06-24	2020-07-16	waltz-sample	20
+91	\N	EXT91	Meet Global Processes	INITIATIVE	DEVELOPMENT	Meet Global Processes	\N	2020-06-24	2022-05-17	waltz-sample	140
+92	91	EXT92_91	Adapt to Regional Trends	PROGRAMME	CONCEPTUAL	Adapt to Regional Trends	\N	2020-06-24	2021-06-25	waltz-sample	40
+93	\N	EXT93	Lead Regulatory Aggregation	INITIATIVE	RETIRED	Lead Regulatory Aggregation	\N	2020-06-24	2022-03-15	waltz-sample	70
+94	93	EXT94_93	Undertake Business Trends	PROGRAMME	CONCEPTUAL	Undertake Business Trends	\N	2020-06-24	2021-03-01	waltz-sample	230
+95	93	EXT95_93	Lower Compliance Aggregation	PROGRAMME	DEVELOPMENT	Lower Compliance Aggregation	\N	2020-06-24	2020-10-14	waltz-sample	220
+96	95	EXT96_95	Adapt to Business Trends	PROJECT	RETIRED	Adapt to Business Trends	\N	2020-06-24	2021-04-30	waltz-sample	280
+97	95	EXT97_95	Reduce Tactical Structures	PROJECT	RETIRED	Reduce Tactical Structures	\N	2020-06-24	2021-05-22	waltz-sample	140
+98	\N	EXT98	Manage Governance Structures	INITIATIVE	CONCEPTUAL	Manage Governance Structures	\N	2020-06-24	2020-09-16	waltz-sample	280
+99	\N	EXT99	Change Compliance Reporting	INITIATIVE	RETIRED	Change Compliance Reporting	\N	2020-06-24	2022-03-19	waltz-sample	80
+100	99	EXT100_99	Deliver Compliance Trends	PROGRAMME	DEVELOPMENT	Deliver Compliance Trends	\N	2020-06-24	2021-08-19	waltz-sample	210
+101	100	EXT101_100	Reduce Regional Reporting	PROJECT	RETIRED	Reduce Regional Reporting	\N	2020-06-24	2020-12-29	waltz-sample	80
+102	99	EXT102_99	Invest in Industry Structures	PROGRAMME	CONCEPTUAL	Invest in Industry Structures	\N	2020-06-24	2021-11-12	waltz-sample	190
+103	102	EXT103_102	Invest in Regional Processes	PROJECT	DEVELOPMENT	Invest in Regional Processes	\N	2020-06-24	2020-08-14	waltz-sample	280
+104	102	EXT104_102	Prioritise Business Aggregation	PROJECT	DEVELOPMENT	Prioritise Business Aggregation	\N	2020-06-24	2021-10-10	waltz-sample	240
+105	102	EXT105_102	Restructure Tactical Trends	PROJECT	RETIRED	Restructure Tactical Trends	\N	2020-06-24	2021-09-28	waltz-sample	220
+106	\N	EXT106	Change Customer Initiatives	INITIATIVE	PRODUCTION	Change Customer Initiatives	\N	2020-06-24	2021-04-07	waltz-sample	80
+107	106	EXT107_106	Reduce Regional Trends	PROGRAMME	RETIRED	Reduce Regional Trends	\N	2020-06-24	2020-09-14	waltz-sample	280
+108	107	EXT108_107	Adapt to Regulatory Initiatives	PROJECT	PRODUCTION	Adapt to Regulatory Initiatives	\N	2020-06-24	2022-03-15	waltz-sample	230
+109	107	EXT109_107	Change Tactical Aggregation	PROJECT	PRODUCTION	Change Tactical Aggregation	\N	2020-06-24	2022-05-26	waltz-sample	250
+110	106	EXT110_106	Manage Market Aggregation	PROGRAMME	PRODUCTION	Manage Market Aggregation	\N	2020-06-24	2020-11-17	waltz-sample	150
+111	110	EXT111_110	Enhance Business Aggregation	PROJECT	RETIRED	Enhance Business Aggregation	\N	2020-06-24	2021-06-23	waltz-sample	70
+112	\N	EXT112	Perform Tactical Aggregation	INITIATIVE	DEVELOPMENT	Perform Tactical Aggregation	\N	2020-06-24	2021-07-29	waltz-sample	170
+113	112	EXT113_112	Reduce Customer Initiatives	PROGRAMME	DEVELOPMENT	Reduce Customer Initiatives	\N	2020-06-24	2021-01-15	waltz-sample	270
+114	112	EXT114_112	Change Market Aggregation	PROGRAMME	DEVELOPMENT	Change Market Aggregation	\N	2020-06-24	2022-05-29	waltz-sample	70
+115	114	EXT115_114	Change Market Trends	PROJECT	PRODUCTION	Change Market Trends	\N	2020-06-24	2020-09-20	waltz-sample	260
+116	114	EXT116_114	Perform Enterprise Trends	PROJECT	PRODUCTION	Perform Enterprise Trends	\N	2020-06-24	2021-08-27	waltz-sample	260
+117	114	EXT117_114	Meet Customer Aggregation	PROJECT	PRODUCTION	Meet Customer Aggregation	\N	2020-06-24	2022-01-26	waltz-sample	260
+118	112	EXT118_112	Enhance Business Trends	PROGRAMME	RETIRED	Enhance Business Trends	\N	2020-06-24	2020-07-18	waltz-sample	210
+119	118	EXT119_118	Lower Regional Aggregation	PROJECT	DEVELOPMENT	Lower Regional Aggregation	\N	2020-06-24	2020-11-06	waltz-sample	90
+120	\N	EXT120	Lead Regional Aggregation	INITIATIVE	RETIRED	Lead Regional Aggregation	\N	2020-06-24	2021-09-02	waltz-sample	40
+121	120	EXT121_120	Invest in Enterprise Aggregation	PROGRAMME	PRODUCTION	Invest in Enterprise Aggregation	\N	2020-06-24	2021-11-22	waltz-sample	150
+122	120	EXT122_120	Lead Tactical Structures	PROGRAMME	PRODUCTION	Lead Tactical Structures	\N	2020-06-24	2021-05-11	waltz-sample	10
+123	122	EXT123_122	Reduce Business Initiatives	PROJECT	CONCEPTUAL	Reduce Business Initiatives	\N	2020-06-24	2021-03-12	waltz-sample	180
+124	122	EXT124_122	Enhance Compliance Trends	PROJECT	RETIRED	Enhance Compliance Trends	\N	2020-06-24	2022-01-06	waltz-sample	90
+125	122	EXT125_122	Lead Tactical Standards	PROJECT	DEVELOPMENT	Lead Tactical Standards	\N	2020-06-24	2021-02-27	waltz-sample	140
+126	\N	EXT126	Undertake Auditor Aggregation	INITIATIVE	CONCEPTUAL	Undertake Auditor Aggregation	\N	2020-06-24	2021-09-02	waltz-sample	210
+127	126	EXT127_126	Analyze Tactical Initiatives	PROGRAMME	DEVELOPMENT	Analyze Tactical Initiatives	\N	2020-06-24	2022-05-31	waltz-sample	160
+128	127	EXT128_127	Prioritise Customer Initiatives	PROJECT	RETIRED	Prioritise Customer Initiatives	\N	2020-06-24	2021-02-24	waltz-sample	240
+129	126	EXT129_126	Perform Regulatory Aggregation	PROGRAMME	CONCEPTUAL	Perform Regulatory Aggregation	\N	2020-06-24	2020-11-09	waltz-sample	190
+130	129	EXT130_129	Meet Tactical Initiatives	PROJECT	PRODUCTION	Meet Tactical Initiatives	\N	2020-06-24	2021-10-01	waltz-sample	270
+131	129	EXT131_129	Prioritise Enterprise Reporting	PROJECT	PRODUCTION	Prioritise Enterprise Reporting	\N	2020-06-24	2022-02-04	waltz-sample	180
+132	129	EXT132_129	Change Customer Structures	PROJECT	PRODUCTION	Change Customer Structures	\N	2020-06-24	2021-11-15	waltz-sample	160
+133	\N	EXT133	Manage Customer Structures	INITIATIVE	RETIRED	Manage Customer Structures	\N	2020-06-24	2021-03-02	waltz-sample	260
+134	133	EXT134_133	Undertake Auditor Standards	PROGRAMME	PRODUCTION	Undertake Auditor Standards	\N	2020-06-24	2020-07-11	waltz-sample	50
+135	134	EXT135_134	Restructure Regional Aggregation	PROJECT	PRODUCTION	Restructure Regional Aggregation	\N	2020-06-24	2020-09-29	waltz-sample	260
+136	134	EXT136_134	Deliver Global Initiatives	PROJECT	PRODUCTION	Deliver Global Initiatives	\N	2020-06-24	2021-02-27	waltz-sample	270
+137	133	EXT137_133	Restructure Auditor Initiatives	PROGRAMME	DEVELOPMENT	Restructure Auditor Initiatives	\N	2020-06-24	2021-08-21	waltz-sample	70
+138	\N	EXT138	Perform Business Operations	INITIATIVE	RETIRED	Perform Business Operations	\N	2020-06-24	2020-10-03	waltz-sample	230
+139	138	EXT139_138	Lead Compliance Aggregation	PROGRAMME	DEVELOPMENT	Lead Compliance Aggregation	\N	2020-06-24	2022-02-17	waltz-sample	20
+140	139	EXT140_139	Analyze Auditor Structures	PROJECT	CONCEPTUAL	Analyze Auditor Structures	\N	2020-06-24	2020-11-26	waltz-sample	40
+141	\N	EXT141	Change Customer Processes	INITIATIVE	DEVELOPMENT	Change Customer Processes	\N	2020-06-24	2021-10-18	waltz-sample	150
+142	141	EXT142_141	Change Business Operations	PROGRAMME	RETIRED	Change Business Operations	\N	2020-06-24	2022-03-27	waltz-sample	50
+143	142	EXT143_142	Deliver Auditor Reporting	PROJECT	CONCEPTUAL	Deliver Auditor Reporting	\N	2020-06-24	2020-10-28	waltz-sample	10
+144	141	EXT144_141	Restructure Customer Aggregation	PROGRAMME	CONCEPTUAL	Restructure Customer Aggregation	\N	2020-06-24	2020-08-15	waltz-sample	20
+145	\N	EXT145	Deliver Market Standards	INITIATIVE	PRODUCTION	Deliver Market Standards	\N	2020-06-24	2021-05-30	waltz-sample	90
+146	\N	EXT146	Prioritise Global Initiatives	INITIATIVE	CONCEPTUAL	Prioritise Global Initiatives	\N	2020-06-24	2020-09-05	waltz-sample	150
+147	146	EXT147_146	Enhance Customer Standards	PROGRAMME	DEVELOPMENT	Enhance Customer Standards	\N	2020-06-24	2020-11-21	waltz-sample	120
+148	146	EXT148_146	Change Enterprise Structures	PROGRAMME	DEVELOPMENT	Change Enterprise Structures	\N	2020-06-24	2021-09-29	waltz-sample	290
+149	148	EXT149_148	Meet Industry Reporting	PROJECT	RETIRED	Meet Industry Reporting	\N	2020-06-24	2022-03-15	waltz-sample	240
+150	148	EXT150_148	Manage Tactical Initiatives	PROJECT	DEVELOPMENT	Manage Tactical Initiatives	\N	2020-06-24	2021-07-29	waltz-sample	210
+151	\N	EXT151	Enhance Compliance Aggregation	INITIATIVE	DEVELOPMENT	Enhance Compliance Aggregation	\N	2020-06-24	2022-01-19	waltz-sample	200
+152	151	EXT152_151	Perform Global Trends	PROGRAMME	CONCEPTUAL	Perform Global Trends	\N	2020-06-24	2022-01-02	waltz-sample	140
+153	152	EXT153_152	Undertake Tactical Initiatives	PROJECT	PRODUCTION	Undertake Tactical Initiatives	\N	2020-06-24	2022-02-14	waltz-sample	170
+154	151	EXT154_151	Meet Industry Processes	PROGRAMME	CONCEPTUAL	Meet Industry Processes	\N	2020-06-24	2022-01-25	waltz-sample	30
+155	151	EXT155_151	Deliver Industry Operations	PROGRAMME	DEVELOPMENT	Deliver Industry Operations	\N	2020-06-24	2021-08-26	waltz-sample	260
+156	155	EXT156_155	Manage Compliance Structures	PROJECT	PRODUCTION	Manage Compliance Structures	\N	2020-06-24	2020-08-07	waltz-sample	140
+157	\N	EXT157	Lower Enterprise Standards	INITIATIVE	CONCEPTUAL	Lower Enterprise Standards	\N	2020-06-24	2020-11-07	waltz-sample	130
+158	157	EXT158_157	Lead Auditor Operations	PROGRAMME	RETIRED	Lead Auditor Operations	\N	2020-06-24	2021-10-26	waltz-sample	230
+159	158	EXT159_158	Perform Customer Aggregation	PROJECT	DEVELOPMENT	Perform Customer Aggregation	\N	2020-06-24	2021-11-19	waltz-sample	130
+160	\N	EXT160	Change Global Aggregation	INITIATIVE	RETIRED	Change Global Aggregation	\N	2020-06-24	2020-07-08	waltz-sample	70
+161	160	EXT161_160	Change Industry Reporting	PROGRAMME	RETIRED	Change Industry Reporting	\N	2020-06-24	2020-09-12	waltz-sample	190
+162	161	EXT162_161	Invest in Business Standards	PROJECT	DEVELOPMENT	Invest in Business Standards	\N	2020-06-24	2021-05-20	waltz-sample	130
+163	160	EXT163_160	Manage Market Reporting	PROGRAMME	CONCEPTUAL	Manage Market Reporting	\N	2020-06-24	2021-08-25	waltz-sample	130
+164	163	EXT164_163	Meet Tactical Structures	PROJECT	RETIRED	Meet Tactical Structures	\N	2020-06-24	2021-06-15	waltz-sample	110
+165	163	EXT165_163	Manage Enterprise Initiatives	PROJECT	RETIRED	Manage Enterprise Initiatives	\N	2020-06-24	2021-12-14	waltz-sample	90
+166	\N	EXT166	Deliver Enterprise Reporting	INITIATIVE	DEVELOPMENT	Deliver Enterprise Reporting	\N	2020-06-24	2021-11-13	waltz-sample	240
+167	166	EXT167_166	Invest in Enterprise Reporting	PROGRAMME	DEVELOPMENT	Invest in Enterprise Reporting	\N	2020-06-24	2021-04-07	waltz-sample	230
+168	167	EXT168_167	Manage Compliance Standards	PROJECT	PRODUCTION	Manage Compliance Standards	\N	2020-06-24	2020-10-31	waltz-sample	260
+169	166	EXT169_166	Lead Business Operations	PROGRAMME	CONCEPTUAL	Lead Business Operations	\N	2020-06-24	2021-05-22	waltz-sample	130
+170	169	EXT170_169	Invest in Regulatory Trends	PROJECT	DEVELOPMENT	Invest in Regulatory Trends	\N	2020-06-24	2020-07-10	waltz-sample	300
+171	166	EXT171_166	Analyze Industry Standards	PROGRAMME	PRODUCTION	Analyze Industry Standards	\N	2020-06-24	2021-10-11	waltz-sample	140
+172	\N	EXT172	Deliver Global Processes	INITIATIVE	RETIRED	Deliver Global Processes	\N	2020-06-24	2022-03-23	waltz-sample	200
+173	\N	EXT173	Invest in Tactical Processes	INITIATIVE	CONCEPTUAL	Invest in Tactical Processes	\N	2020-06-24	2020-08-25	waltz-sample	70
+174	\N	EXT174	Enhance Industry Aggregation	INITIATIVE	CONCEPTUAL	Enhance Industry Aggregation	\N	2020-06-24	2022-03-31	waltz-sample	120
+175	174	EXT175_174	Lead Business Reporting	PROGRAMME	CONCEPTUAL	Lead Business Reporting	\N	2020-06-24	2020-12-25	waltz-sample	200
+176	175	EXT176_175	Restructure Market Standards	PROJECT	DEVELOPMENT	Restructure Market Standards	\N	2020-06-24	2021-10-21	waltz-sample	20
+177	175	EXT177_175	Deliver Auditor Reporting	PROJECT	RETIRED	Deliver Auditor Reporting	\N	2020-06-24	2022-03-05	waltz-sample	260
+178	174	EXT178_174	Restructure Enterprise Initiatives	PROGRAMME	DEVELOPMENT	Restructure Enterprise Initiatives	\N	2020-06-24	2020-10-06	waltz-sample	230
+179	178	EXT179_178	Deliver Enterprise Initiatives	PROJECT	PRODUCTION	Deliver Enterprise Initiatives	\N	2020-06-24	2021-10-22	waltz-sample	250
+180	178	EXT180_178	Restructure Governance Aggregation	PROJECT	CONCEPTUAL	Restructure Governance Aggregation	\N	2020-06-24	2022-03-05	waltz-sample	70
+181	178	EXT181_178	Invest in Regulatory Operations	PROJECT	CONCEPTUAL	Invest in Regulatory Operations	\N	2020-06-24	2021-08-10	waltz-sample	150
+182	174	EXT182_174	Restructure Enterprise Operations	PROGRAMME	PRODUCTION	Restructure Enterprise Operations	\N	2020-06-24	2021-04-09	waltz-sample	290
+183	182	EXT183_182	Lower Industry Structures	PROJECT	RETIRED	Lower Industry Structures	\N	2020-06-24	2022-01-28	waltz-sample	10
+184	182	EXT184_182	Enhance Tactical Structures	PROJECT	DEVELOPMENT	Enhance Tactical Structures	\N	2020-06-24	2021-11-17	waltz-sample	180
+185	\N	EXT185	Lower Business Reporting	INITIATIVE	RETIRED	Lower Business Reporting	\N	2020-06-24	2022-03-27	waltz-sample	190
+186	\N	EXT186	Enhance Global Processes	INITIATIVE	DEVELOPMENT	Enhance Global Processes	\N	2020-06-24	2021-05-25	waltz-sample	200
+187	186	EXT187_186	Lower Governance Aggregation	PROGRAMME	DEVELOPMENT	Lower Governance Aggregation	\N	2020-06-24	2021-12-28	waltz-sample	110
+188	187	EXT188_187	Deliver Compliance Trends	PROJECT	CONCEPTUAL	Deliver Compliance Trends	\N	2020-06-24	2020-08-06	waltz-sample	160
+189	187	EXT189_187	Manage Business Operations	PROJECT	RETIRED	Manage Business Operations	\N	2020-06-24	2021-01-14	waltz-sample	60
+190	186	EXT190_186	Lower Global Trends	PROGRAMME	PRODUCTION	Lower Global Trends	\N	2020-06-24	2021-06-29	waltz-sample	160
+191	190	EXT191_190	Adapt to Compliance Trends	PROJECT	RETIRED	Adapt to Compliance Trends	\N	2020-06-24	2021-03-07	waltz-sample	260
+192	190	EXT192_190	Undertake Regional Structures	PROJECT	CONCEPTUAL	Undertake Regional Structures	\N	2020-06-24	2022-04-18	waltz-sample	100
+193	190	EXT193_190	Restructure Global Standards	PROJECT	CONCEPTUAL	Restructure Global Standards	\N	2020-06-24	2022-03-14	waltz-sample	160
+194	186	EXT194_186	Deliver Regional Processes	PROGRAMME	DEVELOPMENT	Deliver Regional Processes	\N	2020-06-24	2021-04-07	waltz-sample	20
+195	194	EXT195_194	Manage Regulatory Structures	PROJECT	RETIRED	Manage Regulatory Structures	\N	2020-06-24	2020-09-30	waltz-sample	150
+196	194	EXT196_194	Enhance Compliance Reporting	PROJECT	RETIRED	Enhance Compliance Reporting	\N	2020-06-24	2021-12-29	waltz-sample	30
+197	\N	EXT197	Perform Regulatory Structures	INITIATIVE	CONCEPTUAL	Perform Regulatory Structures	\N	2020-06-24	2020-07-13	waltz-sample	230
+198	\N	EXT198	Undertake Governance Aggregation	INITIATIVE	RETIRED	Undertake Governance Aggregation	\N	2020-06-24	2021-12-19	waltz-sample	90
+199	198	EXT199_198	Meet Customer Reporting	PROGRAMME	DEVELOPMENT	Meet Customer Reporting	\N	2020-06-24	2021-07-24	waltz-sample	110
+200	199	EXT200_199	Analyze Enterprise Structures	PROJECT	PRODUCTION	Analyze Enterprise Structures	\N	2020-06-24	2021-07-11	waltz-sample	200
+201	199	EXT201_199	Adapt to Tactical Trends	PROJECT	DEVELOPMENT	Adapt to Tactical Trends	\N	2020-06-24	2021-01-22	waltz-sample	170
+202	199	EXT202_199	Lead Business Processes	PROJECT	CONCEPTUAL	Lead Business Processes	\N	2020-06-24	2021-09-04	waltz-sample	80
+203	198	EXT203_198	Deliver Business Trends	PROGRAMME	RETIRED	Deliver Business Trends	\N	2020-06-24	2022-04-02	waltz-sample	130
+204	203	EXT204_203	Change Regional Trends	PROJECT	DEVELOPMENT	Change Regional Trends	\N	2020-06-24	2021-01-09	waltz-sample	20
+205	203	EXT205_203	Deliver Compliance Operations	PROJECT	PRODUCTION	Deliver Compliance Operations	\N	2020-06-24	2020-07-12	waltz-sample	60
+206	203	EXT206_203	Enhance Auditor Initiatives	PROJECT	DEVELOPMENT	Enhance Auditor Initiatives	\N	2020-06-24	2021-09-14	waltz-sample	30
+207	198	EXT207_198	Reduce Global Processes	PROGRAMME	CONCEPTUAL	Reduce Global Processes	\N	2020-06-24	2021-06-01	waltz-sample	80
+208	207	EXT208_207	Change Enterprise Structures	PROJECT	DEVELOPMENT	Change Enterprise Structures	\N	2020-06-24	2020-08-07	waltz-sample	140
+209	\N	EXT209	Perform Tactical Reporting	INITIATIVE	PRODUCTION	Perform Tactical Reporting	\N	2020-06-24	2021-04-16	waltz-sample	200
+210	\N	EXT210	Invest in Business Standards	INITIATIVE	CONCEPTUAL	Invest in Business Standards	\N	2020-06-24	2020-11-13	waltz-sample	80
+211	210	EXT211_210	Change Auditor Initiatives	PROGRAMME	DEVELOPMENT	Change Auditor Initiatives	\N	2020-06-24	2021-06-14	waltz-sample	160
+212	211	EXT212_211	Lead Compliance Structures	PROJECT	DEVELOPMENT	Lead Compliance Structures	\N	2020-06-24	2021-10-08	waltz-sample	220
+213	\N	EXT213	Prioritise Global Trends	INITIATIVE	DEVELOPMENT	Prioritise Global Trends	\N	2020-06-24	2020-07-17	waltz-sample	50
+214	213	EXT214_213	Manage Industry Structures	PROGRAMME	DEVELOPMENT	Manage Industry Structures	\N	2020-06-24	2021-02-12	waltz-sample	90
+215	214	EXT215_214	Enhance Market Processes	PROJECT	DEVELOPMENT	Enhance Market Processes	\N	2020-06-24	2022-03-27	waltz-sample	30
+216	\N	EXT216	Prioritise Market Processes	INITIATIVE	RETIRED	Prioritise Market Processes	\N	2020-06-24	2021-09-18	waltz-sample	120
+217	\N	EXT217	Reduce Compliance Standards	INITIATIVE	PRODUCTION	Reduce Compliance Standards	\N	2020-06-24	2021-11-30	waltz-sample	160
+218	217	EXT218_217	Invest in Enterprise Initiatives	PROGRAMME	RETIRED	Invest in Enterprise Initiatives	\N	2020-06-24	2022-05-17	waltz-sample	10
+219	218	EXT219_218	Reduce Global Aggregation	PROJECT	PRODUCTION	Reduce Global Aggregation	\N	2020-06-24	2022-03-25	waltz-sample	180
+220	218	EXT220_218	Enhance Industry Reporting	PROJECT	CONCEPTUAL	Enhance Industry Reporting	\N	2020-06-24	2021-04-05	waltz-sample	60
+221	218	EXT221_218	Manage Customer Standards	PROJECT	CONCEPTUAL	Manage Customer Standards	\N	2020-06-24	2021-06-28	waltz-sample	120
+222	217	EXT222_217	Adapt to Industry Initiatives	PROGRAMME	CONCEPTUAL	Adapt to Industry Initiatives	\N	2020-06-24	2021-01-03	waltz-sample	250
+223	217	EXT223_217	Deliver Auditor Structures	PROGRAMME	CONCEPTUAL	Deliver Auditor Structures	\N	2020-06-24	2022-06-18	waltz-sample	170
+224	223	EXT224_223	Lower Auditor Reporting	PROJECT	DEVELOPMENT	Lower Auditor Reporting	\N	2020-06-24	2020-12-21	waltz-sample	110
+225	223	EXT225_223	Undertake Regulatory Operations	PROJECT	RETIRED	Undertake Regulatory Operations	\N	2020-06-24	2022-04-19	waltz-sample	180
+226	223	EXT226_223	Manage Market Aggregation	PROJECT	RETIRED	Manage Market Aggregation	\N	2020-06-24	2021-06-30	waltz-sample	240
+227	\N	EXT227	Invest in Industry Aggregation	INITIATIVE	PRODUCTION	Invest in Industry Aggregation	\N	2020-06-24	2022-01-09	waltz-sample	10
+228	\N	EXT228	Lead Enterprise Trends	INITIATIVE	PRODUCTION	Lead Enterprise Trends	\N	2020-06-24	2021-04-01	waltz-sample	100
+229	228	EXT229_228	Reduce Governance Standards	PROGRAMME	CONCEPTUAL	Reduce Governance Standards	\N	2020-06-24	2021-05-08	waltz-sample	230
+230	229	EXT230_229	Adapt to Industry Standards	PROJECT	RETIRED	Adapt to Industry Standards	\N	2020-06-24	2021-06-06	waltz-sample	80
+231	229	EXT231_229	Meet Customer Processes	PROJECT	PRODUCTION	Meet Customer Processes	\N	2020-06-24	2021-09-23	waltz-sample	300
+232	229	EXT232_229	Invest in Business Processes	PROJECT	RETIRED	Invest in Business Processes	\N	2020-06-24	2020-11-29	waltz-sample	290
+\.
+
+

@@ -1,0 +1,11 @@
+server.authentication.roles.default	BOOKMARK_EDITOR	f	\N
+web.authentication	waltz	f	\N
+ui.avatar.template.url	https://gravatar.com/avatar/${id}?s=200&d=robohash&r=pg	f	\N
+ui.logo.overlay.color	#9c9	f	\N
+ui.banner.message	Waltz is optimised for use in Google Chrome, try a different browser for better performance	f	\N
+feature.data-extractor.entity-cost.enabled	true	f	\N
+REPORT_GRID_RECALCULATE_APP_GROUPS_FROM_FILTERS	COMPLETED	f	Repopulates app groups based on any report grid filter notes associated with them
+ui.logo.overlay.text	Prod - WIP v1.45.2	f	\N
+\.
+
+

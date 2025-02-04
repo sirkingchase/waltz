@@ -1,0 +1,25 @@
+1	ORG_UNIT	20	22	1	1		\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+2	ORG_UNIT	190	43	2000	1		\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+3	ORG_UNIT	140	21	2000	1		\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+4	ORG_UNIT	100	32	5000	1	dsadsda	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+6	ORG_UNIT	240	61	6100	1	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+7	ORG_UNIT	280	26	6100	1	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+8	ORG_UNIT	170	61	6000	1	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+9	ORG_UNIT	170	32	5000	1	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+10	ORG_UNIT	260	11	4000	1	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+11	ORG_UNIT	200	100	4000	1	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+12	ORG_UNIT	40	82	4000	1	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+13	ORG_UNIT	170	82	3000	1	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+14	ORG_UNIT	220	47	1000	1	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+15	ORG_UNIT	290	46	1000	1	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+16	ORG_UNIT	80	10	6000	2		\N	2021-08-19 20:23:21.291997	admin	waltz	f
+17	ORG_UNIT	240	89	1	2	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+18	ORG_UNIT	10	39	6100	2	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+19	ORG_UNIT	90	92	6000	2	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+20	ORG_UNIT	260	51	5000	2	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+21	ORG_UNIT	220	64	3000	2	\N	\N	2021-08-19 20:23:21.291997	admin	waltz-sample	f
+22	ORG_UNIT	10	71	1000	1		\N	2021-08-23 16:02:09.636	admin	waltz	f
+23	ORG_UNIT	10	71	3000	5		\N	2021-08-23 16:27:14.982	admin	waltz	f
+\.
+
+

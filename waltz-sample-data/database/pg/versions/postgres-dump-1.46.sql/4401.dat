@@ -1,0 +1,19 @@
+1	APPLICATION	att 1	\N	ORG_UNIT	10	EXACT	1;2;3;4;5;6;7;8;9;10;11;12;13;14	admin	2020-07-13	2020-08-02	MEASURABLE_CATEGORY	1	ISSUED	waltz
+2	APPLICATION	att 2	\N	ORG_UNIT	10	CHILDREN	1;2;3;4;5;6;7;8;9;10;11;12;13;14	admin	2020-07-13	2020-03-19	MEASURABLE_CATEGORY	1	ISSUED	waltz
+3	APPLICATION	asdas	\N	ORG_UNIT	10	CHILDREN	1;2;3;4;5;6;7;8;9;10;11;12;13;14	admin	2020-07-23	2020-07-24	PHYSICAL_FLOW	\N	ISSUED	waltz
+4	APPLICATION	Function attestation	\N	ORG_UNIT	10	CHILDREN	1	admin	2021-08-23	2021-08-27	MEASURABLE_CATEGORY	1	ISSUED	waltz
+5	APPLICATION	f2	\N	ORG_UNIT	10	CHILDREN	1	admin	2021-08-24	2021-09-03	MEASURABLE_CATEGORY	1	ISSUED	waltz
+6	APPLICATION	p1	\N	ORG_UNIT	80	CHILDREN	1	admin	2021-08-24	2021-08-27	MEASURABLE_CATEGORY	2	ISSUED	waltz
+7	APPLICATION	p2	\N	ORG_UNIT	10	CHILDREN	1	admin	2021-08-24	2021-08-26	MEASURABLE_CATEGORY	2	ISSUED	waltz
+8	APPLICATION	Entity Attestation	Attests that all flows are present and correct for this entity	APPLICATION	59	EXACT		admin	2022-05-13	2022-11-13	MEASURABLE_CATEGORY	1	ISSUED	waltz
+9	APPLICATION	Entity Attestation	Attests that all flows are present and correct for this entity	APPLICATION	89	EXACT		admin	2022-06-07	2022-12-07	LOGICAL_DATA_FLOW	\N	ISSUED	waltz
+10	APPLICATION	Entity Attestation	Attests that all flows are present and correct for this entity	APPLICATION	89	EXACT		admin	2022-06-07	2022-12-07	PHYSICAL_FLOW	\N	ISSUED	waltz
+11	APPLICATION	Entity Attestation	Attests that all flows are present and correct for this entity	APPLICATION	89	EXACT		admin	2022-06-07	2022-12-07	MEASURABLE_CATEGORY	1	ISSUED	waltz
+12	APPLICATION	Entity Attestation	Attests that all flows are present and correct for this entity	APPLICATION	89	EXACT		admin	2022-06-07	2022-12-07	MEASURABLE_CATEGORY	1	ISSUED	waltz
+13	APPLICATION	Entity Attestation	Attests that all flows are present and correct for this entity	APPLICATION	89	EXACT		admin	2022-06-07	2022-12-07	MEASURABLE_CATEGORY	1	ISSUED	waltz
+14	APPLICATION	Entity Attestation	Attests that all flows are present and correct for this entity	APPLICATION	89	EXACT		admin	2022-06-07	2022-12-07	MEASURABLE_CATEGORY	1	ISSUED	waltz
+15	APPLICATION	Entity Attestation	Attests that all flows are present and correct for this entity	APPLICATION	89	EXACT		admin	2022-06-07	2022-12-07	MEASURABLE_CATEGORY	1	ISSUED	waltz
+16	APPLICATION	Entity Attestation	Attests that all flows are present and correct for this entity	APPLICATION	89	EXACT		admin	2022-06-07	2022-12-07	MEASURABLE_CATEGORY	1	ISSUED	waltz
+\.
+
+

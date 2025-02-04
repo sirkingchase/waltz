@@ -3,6 +3,8 @@ version: "3.9"
 services:
   waltz:
     image: ghcr.io/finos/waltz:latest
+    #command: ["update", "run"]
+    command: ["run"]
     ports:
       - "8080:8080"
     depends_on:
@@ -10,6 +12,9 @@ services:
 
   postgres:
     image: postgres:11
+    #volume mount is needed to iniatlize database only
+    #volumes:
+    #  - ${PWD}/waltz-sample-data/database/pg/versions/postgres-dump-1.46.sql:/docker-entrypoint-initdb.d
     environment:
       POSTGRES_USER: waltz
       POSTGRES_DB: waltz

@@ -1,0 +1,438 @@
+1	1	1	\N	2020-06-24 21:15:08.973213	\N	\N	f	\N	\N	\N	\N
+1	2	1	This is a simple one-liner response comment.	2020-06-24 21:15:08.973305	\N	-1826858481.0000	\N	\N	\N	\N	\N
+1	3	1	\N	2020-06-24 21:15:08.973316	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+1	4	1	\N	2020-06-24 21:15:08.973323	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+3	5	3	\N	2020-06-24 21:15:09.09452	\N	\N	t	\N	\N	\N	\N
+3	6	3	This is a simple one-liner response comment.	2020-06-24 21:15:09.09457	\N	850462934.0000	\N	\N	\N	\N	\N
+3	7	3	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:09.094582	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+3	8	3	\N	2020-06-24 21:15:09.094591	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+4	1	4	This is a simple one-liner response comment.	2020-06-24 21:15:09.325958	\N	\N	t	\N	\N	\N	\N
+4	2	4	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:09.32601	\N	999931784.0000	\N	\N	\N	\N	\N
+4	3	4	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:09.326021	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+4	4	4	\N	2020-06-24 21:15:09.326031	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+5	1	5	\N	2020-06-24 21:15:09.326041	\N	\N	t	\N	\N	\N	\N
+5	2	5	\N	2020-06-24 21:15:09.326067	\N	-1008840742.0000	\N	\N	\N	\N	\N
+5	3	5	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:09.326077	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+5	4	5	\N	2020-06-24 21:15:09.326087	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+9	1	9	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:09.382541	\N	\N	f	\N	\N	\N	\N
+9	2	9	\N	2020-06-24 21:15:09.382578	\N	1219974789.0000	\N	\N	\N	\N	\N
+9	3	9	\N	2020-06-24 21:15:09.382586	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+9	4	9	\N	2020-06-24 21:15:09.382591	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+13	1	17	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:09.76465	\N	\N	f	\N	\N	\N	\N
+13	2	17	This is a simple one-liner response comment.	2020-06-24 21:15:09.76469	\N	1074944931.0000	\N	\N	\N	\N	\N
+13	3	17	\N	2020-06-24 21:15:09.764699	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+13	4	17	\N	2020-06-24 21:15:09.764714	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+11	1	12	This is a simple one-liner response comment.	2020-06-24 21:15:09.764726	\N	\N	f	\N	\N	\N	\N
+11	2	12	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:09.764783	\N	1224849998.0000	\N	\N	\N	\N	\N
+11	3	12	\N	2020-06-24 21:15:09.764792	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+11	4	12	\N	2020-06-24 21:15:09.764798	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+15	1	22	\N	2020-06-24 21:15:09.764805	\N	\N	f	\N	\N	\N	\N
+15	2	21	\N	2020-06-24 21:15:09.764821	\N	-2090037416.0000	\N	\N	\N	\N	\N
+15	3	22	\N	2020-06-24 21:15:09.764828	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+15	4	22	\N	2020-06-24 21:15:09.764848	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+16	1	23	\N	2020-06-24 21:15:09.764874	\N	\N	t	\N	\N	\N	\N
+16	2	23	\N	2020-06-24 21:15:09.764892	\N	-1544982291.0000	\N	\N	\N	\N	\N
+16	3	23	This is a simple one-liner response comment.	2020-06-24 21:15:09.764899	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+16	4	23	\N	2020-06-24 21:15:09.764906	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+14	1	18	This is a simple one-liner response comment.	2020-06-24 21:15:09.764913	\N	\N	t	\N	\N	\N	\N
+14	2	18	\N	2020-06-24 21:15:09.764934	\N	901617451.0000	\N	\N	\N	\N	\N
+14	3	19	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:09.764942	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+14	4	19	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:09.764948	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+20	1	29	This is a simple one-liner response comment.	2020-06-24 21:15:10.242821	\N	\N	t	\N	\N	\N	\N
+20	2	29	\N	2020-06-24 21:15:10.242872	\N	-1686998116.0000	\N	\N	\N	\N	\N
+20	3	29	\N	2020-06-24 21:15:10.242882	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+20	4	29	This is a simple one-liner response comment.	2020-06-24 21:15:10.24289	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+18	1	26	This is a simple one-liner response comment.	2020-06-24 21:15:10.242898	\N	\N	t	\N	\N	\N	\N
+18	2	26	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:10.24292	\N	-162852835.0000	\N	\N	\N	\N	\N
+18	3	26	This is a simple one-liner response comment.	2020-06-24 21:15:10.242929	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+18	4	26	\N	2020-06-24 21:15:10.242937	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+17	1	25	This is a simple one-liner response comment.	2020-06-24 21:15:10.242944	\N	\N	t	\N	\N	\N	\N
+17	2	24	\N	2020-06-24 21:15:10.242963	\N	788317056.0000	\N	\N	\N	\N	\N
+17	3	24	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:10.242972	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+17	4	25	\N	2020-06-24 21:15:10.24298	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+19	1	27	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:10.242988	\N	\N	t	\N	\N	\N	\N
+19	2	27	This is a simple one-liner response comment.	2020-06-24 21:15:10.243005	\N	-1329960391.0000	\N	\N	\N	\N	\N
+19	3	28	\N	2020-06-24 21:15:10.243014	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+19	4	28	\N	2020-06-24 21:15:10.243022	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+21	1	31	\N	2020-06-24 21:15:10.243029	\N	\N	f	\N	\N	\N	\N
+21	2	30	This is a long response comment with multiple lines.\n We expect the UI to display this comment with line-breaks.	2020-06-24 21:15:10.243047	\N	-1762364908.0000	\N	\N	\N	\N	\N
+21	3	30	\N	2020-06-24 21:15:10.243055	This is a long response with multiple lines.\n This should be associated with a TEXT_AREA question type. We expect the UI to display this response with line-breaks.	\N	\N	\N	\N	\N	\N
+21	4	31	\N	2020-06-24 21:15:10.243063	This is a simple one-liner response.	\N	\N	\N	\N	\N	\N
+40	1	11	\N	2020-07-13 20:18:14.690698	\N	\N	t	\N	\N	\N	\N
+89	2	11	\N	2020-07-13 20:18:12.024542	\N	12.0000	\N	\N	\N	\N	\N
+89	3	11	\N	2020-07-13 20:18:13.243138	asdsd	\N	\N	\N	\N	\N	\N
+89	4	11	\N	2020-07-13 20:18:14.667162	dsad	\N	\N	\N	\N	\N	\N
+89	1	11	\N	2020-07-13 20:18:14.690698	\N	\N	t	\N	\N	\N	\N
+90	2	11	\N	2020-07-13 20:18:12.024542	\N	12.0000	\N	\N	\N	\N	\N
+90	3	11	\N	2020-07-13 20:18:13.243138	asdsd	\N	\N	\N	\N	\N	\N
+90	4	11	\N	2020-07-13 20:18:14.667162	dsad	\N	\N	\N	\N	\N	\N
+90	1	11	\N	2020-07-13 20:18:14.690698	\N	\N	t	\N	\N	\N	\N
+40	3	11	\N	2020-07-15 13:26:09.53007	g1425	\N	\N	\N	\N	\N	\N
+40	4	11	\N	2020-07-15 13:26:13.873043	c1425	\N	\N	\N	\N	\N	\N
+91	1	11	\N	2020-07-13 20:18:14.690698	\N	\N	t	\N	\N	\N	\N
+91	2	11	\N	2020-07-15 13:25:51.169239	\N	34.0000	\N	\N	\N	\N	\N
+91	3	11	\N	2020-07-15 13:26:09.53007	g1425	\N	\N	\N	\N	\N	\N
+91	4	11	\N	2020-07-15 13:26:13.873043	c1425	\N	\N	\N	\N	\N	\N
+40	2	11	\N	2020-07-15 13:33:46.815828	\N	34.0000	\N	\N	\N	\N	\N
+98	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+98	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+98	11	11	\N	2020-07-24 13:42:14.891641	\N	19.0000	\N	\N	\N	\N	\N
+98	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+95	15	11	\N	2020-07-23 15:32:58.367122	\N	\N	\N	10	APPLICATION	\N	\N
+95	9	11	\N	2020-07-24 13:24:34.795798	\N	\N	t	\N	\N	\N	\N
+98	9	11	\N	2020-07-24 13:42:38.547854	\N	\N	f	\N	\N	\N	\N
+93	12	11	\N	2020-07-27 06:37:57.031448	\N	\N	t	\N	\N	\N	\N
+95	14	11	\N	2020-07-24 09:48:18.201243	\N	\N	\N	190	PERSON	\N	\N
+93	10	11	\N	2020-07-27 06:38:10.445166	remeddf	\N	\N	\N	\N	\N	\N
+102	9	11	\N	2020-07-20 08:54:13.327173	\N	\N	t	\N	\N	\N	\N
+95	12	11	\N	2020-07-24 13:28:20.368896	\N	\N	\N	\N	\N	\N	\N
+82	1	11	\N	2020-07-23 14:51:08.899533	\N	\N	t	\N	\N	\N	\N
+82	2	11	\N	2020-07-23 14:51:10.556575	\N	12.0000	\N	\N	\N	\N	\N
+82	3	11	\N	2020-07-23 14:51:15.765637	qwewqsdfsdfsd	\N	\N	\N	\N	\N	\N
+82	4	11	\N	2020-07-23 14:51:59.416941	dsfs	\N	\N	\N	\N	\N	\N
+92	9	11	\N	2020-07-27 20:48:59.807125	\N	\N	t	\N	\N	\N	\N
+95	13	11	\N	2020-07-24 13:28:20.895538	\N	\N	\N	\N	\N	\N	\N
+96	11	11	\N	2020-07-23 14:56:06.033299	\N	18.0000	\N	\N	\N	\N	\N
+96	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+96	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+99	9	11	\N	2020-07-20 08:54:13.327173	\N	\N	t	\N	\N	\N	\N
+96	9	11	\N	2020-07-23 14:56:42.923262	\N	\N	t	\N	\N	\N	\N
+96	10	11	\N	2020-07-23 14:57:37.27001	sdfgdfgasfdasdfsd	\N	t	\N	\N	\N	\N
+99	10	11	\N	2020-07-24 14:16:19.119816	dgfhgf	\N	\N	\N	\N	\N	\N
+99	11	11	\N	2020-07-24 13:28:12.831685	\N	19.0000	\N	\N	\N	\N	\N
+97	11	11	\N	2020-07-24 13:41:16.713114	\N	12.0000	\N	\N	\N	\N	\N
+97	10	11	\N	2020-07-24 13:41:45.238786	sdfgdfgasfdasdfsd erwrewrwe	\N	t	\N	\N	\N	\N
+97	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+92	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+92	11	11	\N	2020-07-27 21:09:39.297485	\N	30.0000	\N	\N	\N	\N	\N
+97	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+97	9	11	\N	2020-07-23 14:56:42.923262	\N	\N	t	\N	\N	\N	\N
+100	9	11	\N	2020-07-20 08:54:13.327173	\N	\N	t	\N	\N	\N	\N
+94	11	11	\N	2020-07-23 14:56:06.033299	\N	18.0000	\N	\N	\N	\N	\N
+92	12	11	cxzczx	2020-07-27 20:29:44.610242	\N	\N	t	\N	\N	\N	\N
+100	10	11	\N	2020-07-24 14:16:19.119816	dgfhgf	\N	\N	\N	\N	\N	\N
+94	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+94	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+94	9	11	\N	2020-07-23 14:56:42.923262	\N	\N	t	\N	\N	\N	\N
+94	10	11	\N	2020-07-23 14:57:37.27001	sdfgdfgasfdasdfsd	\N	t	\N	\N	\N	\N
+100	11	11	\N	2020-07-24 13:28:12.831685	\N	19.0000	\N	\N	\N	\N	\N
+100	12	11	\N	2020-07-24 14:29:40.741127	\N	\N	t	\N	\N	\N	\N
+92	10	11	\N	2020-07-27 21:09:42.416661	ho ho ho	\N	t	\N	\N	\N	\N
+102	11	11	\N	2020-07-24 14:45:50.089328	\N	12.0000	\N	\N	\N	\N	\N
+95	11	11	\N	2020-07-24 13:25:45.206563	\N	19.0000	\N	\N	\N	\N	\N
+101	9	11	\N	2020-07-20 08:54:13.327173	\N	\N	t	\N	\N	\N	\N
+101	10	11	\N	2020-07-24 14:16:19.119816	dgfhgf	\N	\N	\N	\N	\N	\N
+101	11	11	\N	2020-07-24 13:28:12.831685	\N	19.0000	\N	\N	\N	\N	\N
+101	12	11	\N	2020-07-24 14:29:40.741127	\N	\N	t	\N	\N	\N	\N
+101	14	11	\N	2020-07-24 14:33:54.786031	\N	\N	\N	42	PERSON	\N	\N
+102	10	11	\N	2020-07-24 14:16:19.119816	dgfhgf	\N	\N	\N	\N	\N	\N
+102	12	11	\N	2020-07-24 14:29:40.741127	\N	\N	t	\N	\N	\N	\N
+102	14	11	\N	2020-07-24 14:33:54.786031	\N	\N	\N	42	PERSON	\N	\N
+93	14	11	\N	2020-07-24 15:46:44.477687	\N	\N	\N	42	PERSON	\N	\N
+93	9	11	\N	2020-07-27 06:38:12.901154	\N	\N	t	\N	\N	\N	\N
+93	11	11	\N	2020-07-27 06:38:03.841352	\N	12.0000	\N	\N	\N	\N	\N
+103	9	11	\N	2020-07-27 06:39:46.108231	\N	\N	t	\N	\N	\N	\N
+95	10	11	\N	2020-07-27 15:40:08.743706	dasdas	\N	\N	\N	\N	\N	\N
+103	10	11	\N	2020-07-27 06:41:22.525159	vcbvcbfsdfdsf	\N	\N	\N	\N	\N	\N
+108	12	11	\N	2020-07-27 15:56:23.666819	\N	\N	t	\N	\N	\N	\N
+103	11	11	hello world	2021-05-25 06:52:23.813154	\N	11.0000	\N	\N	\N	\N	\N
+108	9	11	\N	2020-07-27 15:56:27.224277	\N	\N	f	\N	\N	\N	\N
+118	12	11	\N	2020-07-27 15:56:23.666819	\N	\N	t	\N	\N	\N	\N
+118	9	11	\N	2020-07-27 15:56:27.224277	\N	\N	f	\N	\N	\N	\N
+118	10	11	\N	2020-07-27 15:56:18.720963	fsdfdsf	\N	\N	\N	\N	\N	\N
+118	11	11	\N	2020-07-27 15:56:22.614791	\N	19.0000	\N	\N	\N	\N	\N
+114	9	11	\N	2020-07-29 06:58:47.119734	\N	\N	t	\N	\N	\N	\N
+114	10	11	\N	2020-07-29 06:58:56.046736	hello world	\N	\N	\N	\N	\N	\N
+114	12	11	\N	2020-07-29 06:59:01.428095	\N	\N	f	\N	\N	\N	\N
+119	11	11	\N	2020-07-27 17:02:25.587085	\N	20.0000	\N	\N	\N	\N	\N
+104	11	11	\N	2020-07-27 07:15:55.16829	\N	19.0000	\N	\N	\N	\N	\N
+105	9	11	\N	2020-07-27 07:15:33.646251	\N	\N	t	\N	\N	\N	\N
+105	11	11	\N	2020-07-27 07:15:55.16829	\N	19.0000	\N	\N	\N	\N	\N
+119	12	11	\N	2020-07-27 17:02:27.156853	\N	\N	t	\N	\N	\N	\N
+92	14	11	\N	2020-07-27 20:20:48.725959	\N	\N	\N	190	PERSON	\N	\N
+92	15	11	\N	2020-07-27 20:20:53.696352	\N	\N	\N	10	APPLICATION	\N	\N
+128	11	11	\N	2020-07-27 19:39:09.54374	\N	30.0000	\N	\N	\N	\N	\N
+128	9	11	\N	2020-07-27 20:17:57.160346	\N	\N	t	\N	\N	\N	\N
+128	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+120	11	11	\N	2020-07-27 17:02:25.587085	\N	20.0000	\N	\N	\N	\N	\N
+120	12	11	\N	2020-07-27 17:02:27.156853	\N	\N	t	\N	\N	\N	\N
+120	10	11	\N	2020-07-27 17:03:08.189363	dsfsdf	\N	\N	\N	\N	\N	\N
+120	9	11	\N	2020-07-27 17:03:09.648486	\N	\N	f	\N	\N	\N	\N
+128	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+106	9	11	\N	2020-07-29 07:56:44.908618	\N	\N	t	\N	\N	\N	\N
+119	10	11	\N	2020-07-27 19:29:53.346264	dsfsdf	\N	\N	\N	\N	\N	\N
+128	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+128	14	11	\N	2020-07-27 20:20:48.725959	\N	\N	\N	190	PERSON	\N	\N
+121	11	11	\N	2020-07-27 17:02:25.587085	\N	20.0000	\N	\N	\N	\N	\N
+121	12	11	\N	2020-07-27 17:02:27.156853	\N	\N	t	\N	\N	\N	\N
+121	10	11	\N	2020-07-27 19:29:53.346264	dsfsdf	\N	\N	\N	\N	\N	\N
+121	9	11	\N	2020-07-27 19:29:55.386444	\N	\N	t	\N	\N	\N	\N
+119	9	11	\N	2020-07-27 19:30:12.817826	\N	\N	f	\N	\N	\N	\N
+107	9	11	\N	2020-07-27 07:33:41.272724	\N	\N	t	\N	\N	\N	\N
+128	15	11	\N	2020-07-27 20:20:53.696352	\N	\N	\N	10	APPLICATION	\N	\N
+109	9	11	\N	2020-07-27 19:33:58.668302	\N	\N	t	\N	\N	\N	\N
+109	11	11	\N	2020-07-27 19:34:14.961734	\N	19.0000	\N	\N	\N	\N	\N
+122	9	11	\N	2020-07-24 13:44:32.831586	\N	\N	f	\N	\N	\N	\N
+122	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+129	11	11	\N	2020-07-27 19:39:09.54374	\N	30.0000	\N	\N	\N	\N	\N
+122	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+122	11	11	\N	2020-07-24 13:42:14.891641	\N	19.0000	\N	\N	\N	\N	\N
+122	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+111	9	11	\N	2020-07-27 08:08:20.48695	\N	\N	t	\N	\N	\N	\N
+123	11	11	\N	2020-07-27 19:39:09.54374	\N	30.0000	\N	\N	\N	\N	\N
+123	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+123	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+112	9	11	\N	2020-07-27 08:10:18.48066	\N	\N	t	\N	\N	\N	\N
+123	9	11	\N	2020-07-27 19:39:10.122942	\N	\N	f	\N	\N	\N	\N
+123	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+124	11	11	\N	2020-07-27 19:39:09.54374	\N	30.0000	\N	\N	\N	\N	\N
+124	9	11	\N	2020-07-27 19:39:48.663079	\N	\N	t	\N	\N	\N	\N
+124	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+115	9	11	\N	2020-07-27 14:19:33.227725	\N	\N	t	\N	\N	\N	\N
+124	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+115	13	11	\N	2020-07-27 14:19:38.736436	\N	\N	f	\N	\N	\N	\N
+124	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+125	11	11	\N	2020-07-27 19:39:09.54374	\N	30.0000	\N	\N	\N	\N	\N
+125	9	11	\N	2020-07-27 19:39:48.663079	\N	\N	t	\N	\N	\N	\N
+125	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+115	12	11	tryytytr	2020-07-27 14:42:14.572324	\N	\N	f	\N	\N	\N	\N
+115	11	11	\N	2020-07-27 15:01:48.618409	\N	19.0000	\N	\N	\N	\N	\N
+116	11	11	\N	2020-07-27 07:15:55.16829	\N	19.0000	\N	\N	\N	\N	\N
+116	9	11	\N	2020-07-27 07:18:05.266743	\N	\N	f	\N	\N	\N	\N
+104	9	11	\N	2020-07-27 15:38:35.951891	\N	\N	t	\N	\N	\N	\N
+125	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+104	10	11	\N	2020-07-27 15:38:38.391057	gj	\N	\N	\N	\N	\N	\N
+104	12	11	\N	2020-07-27 15:38:42.528727	\N	\N	t	\N	\N	\N	\N
+117	15	11	\N	2020-07-23 15:32:58.367122	\N	\N	\N	10	APPLICATION	\N	\N
+117	9	11	\N	2020-07-24 13:24:34.795798	\N	\N	t	\N	\N	\N	\N
+117	14	11	\N	2020-07-24 09:48:18.201243	\N	\N	\N	190	PERSON	\N	\N
+117	12	11	\N	2020-07-24 13:28:20.368896	\N	\N	\N	\N	\N	\N	\N
+117	10	11	\N	2020-07-24 09:58:33.784956	dasdas	\N	\N	\N	\N	\N	\N
+117	13	11	\N	2020-07-24 13:28:20.895538	\N	\N	\N	\N	\N	\N	\N
+117	11	11	\N	2020-07-24 13:25:45.206563	\N	19.0000	\N	\N	\N	\N	\N
+108	10	11	\N	2020-07-27 15:56:18.720963	fsdfdsf	\N	\N	\N	\N	\N	\N
+108	11	11	\N	2020-07-27 15:56:22.614791	\N	19.0000	\N	\N	\N	\N	\N
+125	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+126	11	11	\N	2020-07-27 19:39:09.54374	\N	30.0000	\N	\N	\N	\N	\N
+126	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+126	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+126	9	11	\N	2020-07-27 19:41:54.175121	\N	\N	f	\N	\N	\N	\N
+126	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+127	11	11	\N	2020-07-27 19:39:09.54374	\N	30.0000	\N	\N	\N	\N	\N
+127	9	11	\N	2020-07-27 20:17:57.160346	\N	\N	t	\N	\N	\N	\N
+127	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+127	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+127	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+115	10	11	\N	2020-07-31 13:25:04.178537	xcbvcxzdfs	\N	\N	\N	\N	\N	\N
+129	9	11	\N	2020-07-27 20:17:57.160346	\N	\N	t	\N	\N	\N	\N
+129	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+129	12	11	\N	2020-07-23 14:56:23.246655	\N	\N	t	\N	\N	\N	\N
+129	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+129	14	11	\N	2020-07-27 20:20:48.725959	\N	\N	\N	190	PERSON	\N	\N
+129	15	11	\N	2020-07-27 20:20:53.696352	\N	\N	\N	10	APPLICATION	\N	\N
+129	16	11	\N	2020-07-27 20:26:13.728572	YELLOW	\N	\N	\N	\N	\N	\N
+92	17	11	\N	2020-07-27 20:49:06.974061	\N	\N	\N	\N	\N	\N	JAVA;;SQL
+109	10	11	\N	2020-07-29 06:35:39.429326	\N	\N	\N	\N	\N	\N	\N
+106	16	11	\N	2020-07-29 14:14:03.492796	BLUE	\N	\N	\N	\N	\N	\N
+113	9	11	\N	2020-07-30 13:47:03.518927	\N	\N	t	\N	\N	\N	\N
+129	17	11	\N	2020-07-27 20:26:22.481907	\N	\N	\N	\N	\N	\N	JAVA;;SQL;;JS
+92	16	11	xczxcxzc	2020-07-27 20:29:47.435482	YELLOW	\N	\N	\N	\N	\N	\N
+130	11	11	\N	2020-07-27 19:39:09.54374	\N	30.0000	\N	\N	\N	\N	\N
+130	9	11	\N	2020-07-27 20:17:57.160346	\N	\N	t	\N	\N	\N	\N
+130	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+130	12	11	cxzczx	2020-07-27 20:29:44.610242	\N	\N	t	\N	\N	\N	\N
+130	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+130	14	11	\N	2020-07-27 20:20:48.725959	\N	\N	\N	190	PERSON	\N	\N
+130	15	11	\N	2020-07-27 20:20:53.696352	\N	\N	\N	10	APPLICATION	\N	\N
+130	17	11	\N	2020-07-27 20:26:22.481907	\N	\N	\N	\N	\N	\N	JAVA;;SQL;;JS
+130	16	11	xczxcxzc	2020-07-27 20:29:47.435482	YELLOW	\N	\N	\N	\N	\N	\N
+131	11	11	\N	2020-07-27 19:39:09.54374	\N	30.0000	\N	\N	\N	\N	\N
+131	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+131	9	11	\N	2020-07-27 20:46:29.381016	\N	\N	f	\N	\N	\N	\N
+131	12	11	cxzczx	2020-07-27 20:29:44.610242	\N	\N	t	\N	\N	\N	\N
+131	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+131	14	11	\N	2020-07-27 20:20:48.725959	\N	\N	\N	190	PERSON	\N	\N
+131	15	11	\N	2020-07-27 20:20:53.696352	\N	\N	\N	10	APPLICATION	\N	\N
+131	17	11	\N	2020-07-27 20:26:22.481907	\N	\N	\N	\N	\N	\N	JAVA;;SQL;;JS
+131	16	11	xczxcxzc	2020-07-27 20:29:47.435482	YELLOW	\N	\N	\N	\N	\N	\N
+92	18	11	\N	2020-07-27 20:49:05.240189	\N	\N	\N	\N	\N	2020-07-31	\N
+132	11	11	\N	2020-07-27 19:39:09.54374	\N	30.0000	\N	\N	\N	\N	\N
+132	9	11	\N	2020-07-27 20:48:59.807125	\N	\N	t	\N	\N	\N	\N
+132	13	11	\N	2020-07-23 14:56:22.418045	\N	\N	f	\N	\N	\N	\N
+132	12	11	cxzczx	2020-07-27 20:29:44.610242	\N	\N	t	\N	\N	\N	\N
+132	10	11	\N	2020-07-24 13:42:37.989936	ho ho ho	\N	t	\N	\N	\N	\N
+132	14	11	\N	2020-07-27 20:20:48.725959	\N	\N	\N	190	PERSON	\N	\N
+132	15	11	\N	2020-07-27 20:20:53.696352	\N	\N	\N	10	APPLICATION	\N	\N
+132	17	11	\N	2020-07-27 20:49:06.974061	\N	\N	\N	\N	\N	\N	JAVA;;SQL
+132	16	11	xczxcxzc	2020-07-27 20:29:47.435482	YELLOW	\N	\N	\N	\N	\N	\N
+132	18	11	\N	2020-07-27 20:49:05.240189	\N	\N	\N	\N	\N	2020-07-31	\N
+106	17	11	\N	2020-07-29 14:14:25.63786	\N	\N	\N	\N	\N	\N	C#;;LISP
+106	18	11	\N	2020-07-27 21:29:42.006085	\N	\N	\N	\N	\N	2020-07-13	\N
+106	10	11	\N	2020-07-28 07:49:41.839893	df	\N	\N	\N	\N	\N	\N
+106	11	11	\N	2020-07-28 07:49:46.234787	\N	145.0000	\N	\N	\N	\N	\N
+133	9	11	\N	2020-07-27 21:45:14.366023	\N	\N	t	\N	\N	\N	\N
+133	16	11	\N	2020-07-28 07:49:58.368111	GREEN	\N	\N	\N	\N	\N	\N
+133	17	11	\N	2020-07-28 07:50:06.209622	\N	\N	\N	\N	\N	\N	C#;;SQL;;JS;;LISP
+133	18	11	\N	2020-07-27 21:29:42.006085	\N	\N	\N	\N	\N	2020-07-13	\N
+133	10	11	\N	2020-07-28 07:49:41.839893	df	\N	\N	\N	\N	\N	\N
+133	11	11	\N	2020-07-28 07:49:46.234787	\N	145.0000	\N	\N	\N	\N	\N
+133	12	11	\N	2020-07-28 07:49:47.52729	\N	\N	t	\N	\N	\N	\N
+133	14	11	\N	2020-07-28 07:49:52.151762	\N	\N	\N	190	PERSON	\N	\N
+133	15	11	\N	2020-07-28 07:49:55.527619	\N	\N	\N	44	APPLICATION	\N	\N
+134	9	11	\N	2020-07-27 21:45:14.366023	\N	\N	t	\N	\N	\N	\N
+134	16	11	\N	2020-07-28 07:49:58.368111	GREEN	\N	\N	\N	\N	\N	\N
+134	17	11	\N	2020-07-28 07:50:06.209622	\N	\N	\N	\N	\N	\N	C#;;SQL;;JS;;LISP
+134	18	11	\N	2020-07-27 21:29:42.006085	\N	\N	\N	\N	\N	2020-07-13	\N
+134	10	11	\N	2020-07-28 07:49:41.839893	df	\N	\N	\N	\N	\N	\N
+134	11	11	\N	2020-07-28 07:49:46.234787	\N	145.0000	\N	\N	\N	\N	\N
+134	12	11	\N	2020-07-28 07:49:47.52729	\N	\N	t	\N	\N	\N	\N
+134	14	11	\N	2020-07-28 07:49:52.151762	\N	\N	\N	190	PERSON	\N	\N
+134	15	11	\N	2020-07-28 07:49:55.527619	\N	\N	\N	44	APPLICATION	\N	\N
+135	9	11	\N	2020-07-27 12:42:05.041621	\N	\N	t	\N	\N	\N	\N
+135	11	11	\N	2020-07-27 12:42:10.20902	\N	18.0000	\N	\N	\N	\N	\N
+135	12	11	\N	2020-07-27 12:42:13.654372	\N	\N	f	\N	\N	\N	\N
+135	10	11	\N	2020-07-27 12:42:19.755058	asdasdsd	\N	\N	\N	\N	\N	\N
+135	17	11	\N	2020-07-28 10:27:48.679864	\N	\N	\N	\N	\N	\N	SQL
+135	18	11	\N	2020-07-28 10:27:53.002111	\N	\N	\N	\N	\N	2020-07-21	\N
+136	9	11	\N	2020-07-27 12:42:05.041621	\N	\N	t	\N	\N	\N	\N
+136	11	11	\N	2020-07-27 12:42:10.20902	\N	18.0000	\N	\N	\N	\N	\N
+136	12	11	\N	2020-07-27 12:42:13.654372	\N	\N	f	\N	\N	\N	\N
+136	10	11	\N	2020-07-27 12:42:19.755058	asdasdsd	\N	\N	\N	\N	\N	\N
+136	17	11	\N	2020-07-28 10:27:48.679864	\N	\N	\N	\N	\N	\N	SQL
+136	18	11	\N	2020-07-28 10:27:53.002111	\N	\N	\N	\N	\N	2020-07-21	\N
+114	13	11	\N	2020-07-28 17:12:27.832853	\N	\N	t	\N	\N	\N	\N
+114	14	11	\N	2020-07-28 17:12:33.092212	\N	\N	\N	190	PERSON	\N	\N
+114	15	11	\N	2020-07-28 17:12:38.188528	\N	\N	\N	75	APPLICATION	\N	\N
+114	16	11	\N	2020-07-28 17:12:40.708874	RED	\N	\N	\N	\N	\N	\N
+140	21	11	\N	2020-07-31 12:26:35.59149	\N	12.0000	\N	\N	\N	\N	\N
+106	15	11	\N	2020-07-29 14:13:50.115699	\N	\N	\N	44	APPLICATION	\N	\N
+114	17	11	\N	2020-07-28 17:12:44.381	\N	\N	\N	\N	\N	\N	C#;;JAVA
+114	18	11	\N	2020-07-28 17:12:47.73308	\N	\N	\N	\N	\N	2020-08-07	\N
+137	9	11	\N	2020-07-27 12:42:05.041621	\N	\N	t	\N	\N	\N	\N
+137	10	11	\N	2020-07-28 17:12:27.386702	hello world	\N	\N	\N	\N	\N	\N
+137	12	11	\N	2020-07-27 12:42:13.654372	\N	\N	f	\N	\N	\N	\N
+137	11	11	\N	2020-07-28 17:12:22.079093	\N	22.0000	\N	\N	\N	\N	\N
+137	13	11	\N	2020-07-28 17:12:27.832853	\N	\N	t	\N	\N	\N	\N
+137	14	11	\N	2020-07-28 17:12:33.092212	\N	\N	\N	190	PERSON	\N	\N
+137	15	11	\N	2020-07-28 17:12:38.188528	\N	\N	\N	75	APPLICATION	\N	\N
+137	16	11	\N	2020-07-28 17:12:40.708874	RED	\N	\N	\N	\N	\N	\N
+137	17	11	\N	2020-07-28 17:12:44.381	\N	\N	\N	\N	\N	\N	C#;;JAVA
+137	18	11	\N	2020-07-28 17:12:47.73308	\N	\N	\N	\N	\N	2020-08-07	\N
+109	18	11	\N	2020-07-29 06:36:11.167234	\N	\N	\N	\N	\N	2020-07-08	\N
+138	11	11	\N	2020-07-27 19:34:14.961734	\N	19.0000	\N	\N	\N	\N	\N
+138	10	11	\N	2020-07-29 06:35:39.429326	\N	\N	\N	\N	\N	\N	\N
+138	9	11	\N	2020-07-27 19:33:58.668302	\N	\N	t	\N	\N	\N	\N
+138	12	11	\N	2020-07-29 06:35:58.92187	\N	\N	t	\N	\N	\N	\N
+138	17	11	\N	2020-07-29 06:36:07.346743	\N	\N	\N	\N	\N	\N	SQL;;C#
+138	18	11	\N	2020-07-29 06:36:11.167234	\N	\N	\N	\N	\N	2020-07-08	\N
+109	12	11	\N	2020-07-29 06:36:46.896509	\N	\N	f	\N	\N	\N	\N
+109	13	11	\N	2020-07-29 06:36:47.987065	\N	\N	f	\N	\N	\N	\N
+109	17	11	\N	2020-07-29 06:36:53.53382	\N	\N	\N	\N	\N	\N	SQL;;JAVA
+140	27	11	\N	2020-07-31 13:28:58.287998	\N	\N	\N	\N	\N	\N	SQL;;JS
+140	29	11	\N	2020-07-30 14:41:01.060649	\N	\N	\N	\N	\N	\N	\N
+114	11	11	\N	2020-07-29 06:58:58.25368	\N	19.0000	\N	\N	\N	\N	\N
+140	19	11	\N	2020-07-31 13:09:06.886805	\N	\N	t	\N	\N	\N	\N
+106	13	11	\N	2020-07-29 07:56:48.445285	\N	\N	f	\N	\N	\N	\N
+106	12	11	rwere	2020-07-29 07:56:53.643955	\N	\N	f	\N	\N	\N	\N
+139	9	11	\N	2020-07-29 07:56:44.908618	\N	\N	t	\N	\N	\N	\N
+139	16	11	\N	2020-07-28 07:49:58.368111	GREEN	\N	\N	\N	\N	\N	\N
+139	17	11	\N	2020-07-29 07:57:02.920291	\N	\N	\N	\N	\N	\N	C#;;SQL;;JS
+139	18	11	\N	2020-07-27 21:29:42.006085	\N	\N	\N	\N	\N	2020-07-13	\N
+139	10	11	\N	2020-07-28 07:49:41.839893	df	\N	\N	\N	\N	\N	\N
+139	11	11	\N	2020-07-28 07:49:46.234787	\N	145.0000	\N	\N	\N	\N	\N
+139	14	11	\N	2020-07-28 07:49:52.151762	\N	\N	\N	190	PERSON	\N	\N
+139	15	11	\N	2020-07-28 07:49:55.527619	\N	\N	\N	44	APPLICATION	\N	\N
+139	13	11	\N	2020-07-29 07:56:48.445285	\N	\N	f	\N	\N	\N	\N
+139	12	11	rwere	2020-07-29 07:56:53.643955	\N	\N	f	\N	\N	\N	\N
+115	17	11	\N	2020-07-31 13:25:06.678237	\N	\N	\N	\N	\N	\N	SQL;;JAVA
+106	14	11	\N	2020-07-29 14:09:37.566347	\N	\N	\N	190	PERSON	\N	\N
+115	18	11	\N	2020-07-31 13:25:09.725696	\N	\N	\N	\N	\N	2020-07-14	\N
+141	9	11	\N	2020-07-27 14:19:33.227725	\N	\N	t	\N	\N	\N	\N
+141	13	11	\N	2020-07-27 14:19:38.736436	\N	\N	f	\N	\N	\N	\N
+141	12	11	tryytytr	2020-07-27 14:42:14.572324	\N	\N	f	\N	\N	\N	\N
+140	28	11	\N	2020-07-31 13:29:05.533348	\N	\N	\N	\N	\N	\N	\N
+141	11	11	\N	2020-07-27 15:01:48.618409	\N	19.0000	\N	\N	\N	\N	\N
+141	10	11	\N	2020-07-31 13:25:04.178537	xcbvcxzdfs	\N	\N	\N	\N	\N	\N
+141	17	11	\N	2020-07-31 13:25:06.678237	\N	\N	\N	\N	\N	\N	SQL;;JAVA
+141	18	11	\N	2020-07-31 13:25:09.725696	\N	\N	\N	\N	\N	2020-07-14	\N
+140	20	11	\N	2020-07-31 12:26:34.73117	\N	\N	\N	\N	\N	\N	\N
+142	10	11	\N	2020-07-31 14:16:04.877901	\N	\N	\N	\N	\N	\N	\N
+142	12	11	\N	2020-07-31 14:02:09.263061	\N	\N	t	\N	\N	\N	\N
+142	17	11	\N	2020-07-31 14:02:19.82465	\N	\N	\N	\N	\N	\N	JAVA;;SQL
+142	18	11	\N	2020-07-31 14:02:23.263427	\N	\N	\N	\N	\N	2020-07-14	\N
+143	9	11	\N	2020-07-31 14:01:59.200658	\N	\N	t	\N	\N	\N	\N
+143	10	11	\N	2020-07-31 14:02:04.497238	dasdasd	\N	\N	\N	\N	\N	\N
+143	11	11	\N	2020-07-31 14:02:09.222988	\N	21.0000	\N	\N	\N	\N	\N
+143	12	11	\N	2020-07-31 14:02:09.263061	\N	\N	t	\N	\N	\N	\N
+143	17	11	\N	2020-07-31 14:02:19.82465	\N	\N	\N	\N	\N	\N	JAVA;;SQL
+143	18	11	\N	2020-07-31 14:02:23.263427	\N	\N	\N	\N	\N	2020-07-14	\N
+142	11	11	\N	2020-07-31 14:16:10.122748	\N	\N	\N	\N	\N	\N	\N
+144	9	11	\N	2020-07-31 14:03:00.991806	\N	\N	f	\N	\N	\N	\N
+144	10	11	\N	2020-07-31 14:02:04.497238	dasdasd	\N	\N	\N	\N	\N	\N
+144	11	11	\N	2020-07-31 14:02:09.222988	\N	21.0000	\N	\N	\N	\N	\N
+144	12	11	\N	2020-07-31 14:02:09.263061	\N	\N	t	\N	\N	\N	\N
+144	17	11	\N	2020-07-31 14:02:19.82465	\N	\N	\N	\N	\N	\N	JAVA;;SQL
+144	18	11	\N	2020-07-31 14:02:23.263427	\N	\N	\N	\N	\N	2020-07-14	\N
+142	9	11	\N	2020-07-31 14:16:02.142027	\N	\N	t	\N	\N	\N	\N
+110	9	11	\N	2020-11-28 21:14:06.073	\N	\N	f	\N	\N	\N	\N
+107	11	11	\N	2021-05-25 06:36:06.946409	\N	2.0000	\N	\N	\N	\N	\N
+107	14	11	\N	2021-05-25 06:36:17.181238	\N	\N	\N	42	PERSON	\N	\N
+107	15	11	\N	2021-05-25 06:36:35.073325	\N	\N	\N	83	APPLICATION	\N	\N
+107	16	11	\N	2021-05-25 06:36:38.34541	GREEN	\N	\N	\N	\N	\N	\N
+107	17	11	\N	2021-05-25 06:36:41.903352	\N	\N	\N	\N	\N	\N	SQL; C#
+107	18	11	\N	2021-05-25 06:36:44.08991	\N	\N	\N	\N	\N	2020-07-21	\N
+145	9	11	\N	2020-07-27 06:39:46.108231	\N	\N	t	\N	\N	\N	\N
+145	12	11	\N	2020-07-27 06:41:10.274197	\N	\N	t	\N	\N	\N	\N
+145	10	11	\N	2020-07-27 06:41:22.525159	vcbvcbfsdfdsf	\N	\N	\N	\N	\N	\N
+145	11	11	\N	2020-07-27 06:41:19.144592	\N	11.0000	\N	\N	\N	\N	\N
+103	18	11	\N	2021-05-25 06:44:21.587022	\N	\N	\N	\N	\N	2020-07-21	\N
+146	9	11	\N	2020-07-27 06:39:46.108231	\N	\N	t	\N	\N	\N	\N
+146	10	11	\N	2020-07-27 06:41:22.525159	vcbvcbfsdfdsf	\N	\N	\N	\N	\N	\N
+146	11	11	\N	2020-07-27 06:41:19.144592	\N	11.0000	\N	\N	\N	\N	\N
+146	17	11	\N	2021-05-25 06:44:02.310832	\N	\N	\N	\N	\N	\N	SQL
+146	18	11	\N	2021-05-25 06:44:21.587022	\N	\N	\N	\N	\N	2020-07-21	\N
+107	10	11	\N	2021-05-25 08:25:24.164556	an answer	\N	\N	\N	\N	\N	\N
+103	17	11	\N	2021-05-25 06:50:05.755492	\N	\N	\N	\N	\N	\N	SQL; C#; JS
+103	16	11	\N	2021-05-25 06:50:07.774194	GREEN	\N	\N	\N	\N	\N	\N
+147	9	11	\N	2020-07-27 06:39:46.108231	\N	\N	t	\N	\N	\N	\N
+147	10	11	\N	2020-07-27 06:41:22.525159	vcbvcbfsdfdsf	\N	\N	\N	\N	\N	\N
+147	11	11	\N	2020-07-27 06:41:19.144592	\N	11.0000	\N	\N	\N	\N	\N
+147	17	11	\N	2021-05-25 06:50:05.755492	\N	\N	\N	\N	\N	\N	SQL; C#; JS
+147	18	11	\N	2021-05-25 06:44:21.587022	\N	\N	\N	\N	\N	2020-07-21	\N
+147	16	11	\N	2021-05-25 06:50:07.774194	GREEN	\N	\N	\N	\N	\N	\N
+113	17	11	\N	2021-05-25 08:26:06.860566	\N	\N	\N	\N	\N	\N	SQL; C#
+113	18	11	\N	2021-05-25 08:26:08.79111	\N	\N	\N	\N	\N	2020-07-21	\N
+113	30	11	\N	2021-05-25 08:26:12.84857	\N	\N	\N	\N	\N	\N	\N
+151	9	11	\N	2020-07-30 13:47:03.518927	\N	\N	t	\N	\N	\N	\N
+151	17	11	\N	2021-05-25 08:26:06.860566	\N	\N	\N	\N	\N	\N	SQL; C#
+151	18	11	\N	2021-05-25 08:26:08.79111	\N	\N	\N	\N	\N	2020-07-21	\N
+151	30	11	\N	2021-05-25 08:26:12.84857	\N	\N	\N	\N	\N	\N	\N
+148	9	11	\N	2020-07-27 06:39:46.108231	\N	\N	t	\N	\N	\N	\N
+148	10	11	\N	2020-07-27 06:41:22.525159	vcbvcbfsdfdsf	\N	\N	\N	\N	\N	\N
+148	11	11	hello world	2021-05-25 06:52:23.813154	\N	11.0000	\N	\N	\N	\N	\N
+148	17	11	\N	2021-05-25 06:50:05.755492	\N	\N	\N	\N	\N	\N	SQL; C#; JS
+148	18	11	\N	2021-05-25 06:44:21.587022	\N	\N	\N	\N	\N	2020-07-21	\N
+148	16	11	\N	2021-05-25 06:50:07.774194	GREEN	\N	\N	\N	\N	\N	\N
+148	30	11	\N	2021-05-25 06:52:57.995623	\N	\N	\N	\N	\N	\N	\N
+103	30	11	\N	2021-05-25 06:55:19.216803	\N	\N	\N	\N	\N	\N	\N
+149	9	11	\N	2020-07-27 07:33:41.272724	\N	\N	t	\N	\N	\N	\N
+149	10	11	\N	2021-05-25 06:36:06.536861	an answer	\N	\N	\N	\N	\N	\N
+149	11	11	\N	2021-05-25 06:36:06.946409	\N	2.0000	\N	\N	\N	\N	\N
+149	14	11	\N	2021-05-25 06:36:17.181238	\N	\N	\N	42	PERSON	\N	\N
+149	15	11	\N	2021-05-25 06:36:35.073325	\N	\N	\N	83	APPLICATION	\N	\N
+149	16	11	\N	2021-05-25 06:36:38.34541	GREEN	\N	\N	\N	\N	\N	\N
+149	17	11	\N	2021-05-25 06:36:41.903352	\N	\N	\N	\N	\N	\N	SQL; C#
+149	18	11	\N	2021-05-25 06:36:44.08991	\N	\N	\N	\N	\N	2020-07-21	\N
+107	30	11	\N	2021-05-25 07:04:17.229349	\N	\N	\N	\N	\N	\N	\N
+150	9	11	\N	2020-07-27 07:33:41.272724	\N	\N	t	\N	\N	\N	\N
+150	10	11	\N	2021-05-25 06:36:06.536861	an answer	\N	\N	\N	\N	\N	\N
+150	11	11	\N	2021-05-25 06:36:06.946409	\N	2.0000	\N	\N	\N	\N	\N
+150	14	11	\N	2021-05-25 06:36:17.181238	\N	\N	\N	42	PERSON	\N	\N
+150	15	11	\N	2021-05-25 06:36:35.073325	\N	\N	\N	83	APPLICATION	\N	\N
+150	16	11	\N	2021-05-25 06:36:38.34541	GREEN	\N	\N	\N	\N	\N	\N
+150	17	11	\N	2021-05-25 06:36:41.903352	\N	\N	\N	\N	\N	\N	SQL; C#
+150	18	11	\N	2021-05-25 06:36:44.08991	\N	\N	\N	\N	\N	2020-07-21	\N
+150	30	11	\N	2021-05-25 07:04:17.229349	\N	\N	\N	\N	\N	\N	\N
+\.
+
+

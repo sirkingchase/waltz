@@ -1,0 +1,7 @@
+2	Programme Survey	Questions about your programme governance	CHANGE_INITIATIVE	11	2020-06-24 21:15:08.70597	ACTIVE	\N
+1	App Survey	Questions about your application	APPLICATION	11	2020-06-24 21:15:08.656353	DRAFT	\N
+4	envCondTemplate	conditionals based on environmental factors in the subject\n\n```\n settlementRating: rating('CAPABILITY', 'SETTLEMENT', 'Z')\n confirmationsRating: rating('CAPABILITY', 'CONFIRMATIONS', 'Z')\n```	APPLICATION	11	2020-07-30 13:47:34.538863	DRAFT	\N
+3	conditionalTemplate	test	APPLICATION	11	2020-07-15 13:34:14.760975	ACTIVE	\N
+\.
+
+

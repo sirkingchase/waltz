@@ -1,0 +1,29 @@
+1	4	Good		G	#5BB65D	10	t	\N
+4	2	Adequate		A	#D9923F	20	t	\N
+5	4	Not applicable		X	#d1d1d1	50	t	\N
+11	1	Good		G	#5BB65D	10	t	\N
+13	2	Not applicable		X	#d1d1d1	50	t	\N
+15	2	Good		G	#5BB65D	10	t	\N
+18	1	Not applicable		X	#d1d1d1	50	t	\N
+19	2	Poor		R	#DA524B	30	t	\N
+20	1	Poor		R	#DA524B	30	t	\N
+21	1	Adequate		A	#D9923F	20	t	\N
+24	4	Adequate		A	#D9923F	20	t	\N
+25	4	Poor		R	#DA524B	30	t	\N
+3	1	Unknown		Z	#939393	40	f	\N
+6	2	Unknown		Z	#939393	40	f	\N
+9	4	Unknown		Z	#939393	40	f	\N
+28	6	Internal	Internal	I	#5271CC	0	t	\N
+31	7	No Impact	No Impact	Z	#5271CC	0	t	\N
+32	7	Small Impact	Small Impact	S	#5BB65D	0	t	\N
+33	7	Large Impact	Large Impact	L	#D9923F	0	t	\N
+26	6	Confidential	Confidential	C	#D9923F	-5	t	\N
+29	6	Public	Public	P	#a5cfa6	0	t	\N
+27	6	Strictly Confidential	Strictly Confidential	S	#DA524B	-10	t	\N
+40	9	Yes	Yes description	Y	green	10	t	\N
+41	9	No	No description	N	red	20	t	\N
+42	9	Maybe	Maybe description	M	yellow	30	t	\N
+30	6	Unrated	Unrated	U	#FFCFFC	0	t	\N
+\.
+
+

@@ -1,0 +1,43 @@
+1	1	Q1 App Survey (GENERATOR)	Questions about your application	APP_GROUP	3	EXACT	13;14	2020-06-04	2020-08-15	INDIVIDUAL	20	18elijah.walton@gmail.com	ISSUED	\N	f	2020-08-15
+2	1	Q4 App Survey (GENERATOR)	Questions about your application	APP_GROUP	3	EXACT	11;4	2020-06-22	2020-09-22	INDIVIDUAL	1	mollycollins@mail.com	ISSUED	\N	f	2020-09-22
+3	2	ANNUAL Programme Survey (GENERATOR)	Questions about your programme governance	APP_GROUP	1	EXACT	3	2020-06-15	2020-07-08	GROUP	3	1rowe@mail.com	ISSUED	\N	f	2020-07-08
+4	1	ANNUAL App Survey (GENERATOR)	Questions about your application	APP_GROUP	2	EXACT	14	2020-06-20	2020-08-10	INDIVIDUAL	19	17allison.spears@yahoo.com	ISSUED	\N	f	2020-08-10
+5	2	ANNUAL Programme Survey (GENERATOR)	Questions about your programme governance	APP_GROUP	1	EXACT	13	2020-06-08	2020-06-11	GROUP	6	4harper.barnes@mail.com	ISSUED	\N	f	2020-06-11
+6	1	Q1 App Survey (GENERATOR)	Questions about your application	APP_GROUP	2	EXACT	3	2020-06-09	2020-10-03	INDIVIDUAL	17	15macdonald@yahoo.com	COMPLETED	\N	f	2020-10-03
+7	1	Q2 App Survey (GENERATOR)	Questions about your application	APP_GROUP	4	EXACT	1	2020-06-24	2020-08-02	GROUP	16	14blevins@mail.com	ISSUED	\N	f	2020-08-02
+8	1	ANNUAL App Survey (GENERATOR)	Questions about your application	APP_GROUP	2	EXACT	12;13;4	2020-06-12	2020-08-10	GROUP	16	14blevins@mail.com	COMPLETED	\N	f	2020-08-10
+9	2	Q1 Programme Survey (GENERATOR)	Questions about your programme governance	APP_GROUP	3	EXACT	7	2020-05-29	2020-08-10	GROUP	12	10emily.dillard@mail.com	ISSUED	\N	f	2020-08-10
+10	2	ANNUAL Programme Survey (GENERATOR)	Questions about your programme governance	APP_GROUP	3	EXACT	9	2020-05-27	2020-06-04	INDIVIDUAL	10	8camilabrooks@gmail.com	ISSUED	\N	f	2020-06-04
+11	2	Q2 Programme Survey (GENERATOR)	Questions about your programme governance	APP_GROUP	3	EXACT	9	2020-06-06	2020-07-07	GROUP	10	8camilabrooks@gmail.com	COMPLETED	\N	f	2020-07-07
+12	2	Q4 Programme Survey (GENERATOR)	Questions about your programme governance	APP_GROUP	4	EXACT	14	2020-06-07	2020-08-22	INDIVIDUAL	20	18elijah.walton@gmail.com	COMPLETED	\N	f	2020-08-22
+13	2	Q2 Programme Survey (GENERATOR)	Questions about your programme governance	APP_GROUP	1	EXACT	8;1;2	2020-06-24	2020-08-19	INDIVIDUAL	6	4harper.barnes@mail.com	COMPLETED	\N	f	2020-08-19
+14	1	Q4 App Survey (GENERATOR)	Questions about your application	APP_GROUP	4	EXACT	14;6;12	2020-06-05	2020-08-11	INDIVIDUAL	20	18elijah.walton@gmail.com	COMPLETED	\N	f	2020-08-11
+15	1	Q1 App Survey (GENERATOR)	Questions about your application	APP_GROUP	2	EXACT	4;11;1	2020-05-31	2020-08-10	GROUP	3	1rowe@mail.com	ISSUED	\N	f	2020-08-10
+16	1	Q4 App Survey (GENERATOR)	Questions about your application	APP_GROUP	3	EXACT	14;13;6	2020-06-19	2020-08-12	GROUP	21	19tyson@yahoo.com	COMPLETED	\N	f	2020-08-12
+17	1	Q2 App Survey (GENERATOR)	Questions about your application	APP_GROUP	1	EXACT	10;1;11	2020-06-17	2020-10-02	GROUP	15	13guthrie@mail.com	COMPLETED	\N	f	2020-10-02
+18	1	Q2 App Survey (GENERATOR)	Questions about your application	APP_GROUP	1	EXACT	4;1;7	2020-06-06	2020-08-08	GROUP	7	5ashley.leblanc@yahoo.com	ISSUED	\N	f	2020-08-08
+19	1	Q2 App Survey (GENERATOR)	Questions about your application	APP_GROUP	3	EXACT	14;4;12	2020-06-13	2020-08-31	INDIVIDUAL	4	2mollychambers@mail.com	COMPLETED	\N	f	2020-08-31
+20	1	Q3 App Survey (GENERATOR)	Questions about your application	APP_GROUP	4	EXACT	3;4;10	2020-06-10	2020-07-05	GROUP	12	10emily.dillard@mail.com	ISSUED	\N	f	2020-07-05
+21	1	App Survey 1	Questions about your application	ORG_UNIT	10	CHILDREN	1;2;3;4;5;6;7;8;9;10;11;12;13;14	2020-07-13	2020-08-01	GROUP	11	davidwatkins73@gmail.com	ISSUED	\N	f	2020-08-01
+22	3	conditionalTemplate	test	APPLICATION	87	EXACT		2020-07-15	2020-03-19	GROUP	11	admin	ISSUED	\N	f	2020-03-19
+23	3	conditionalTemplate	test	APPLICATION	63	EXACT		2020-07-17	2020-07-24	GROUP	11	admin	ISSUED	\N	f	2020-07-24
+24	3	conditionalTemplate	test	APPLICATION	25	EXACT		2020-07-23	2020-03-19	GROUP	11	admin	ISSUED	\N	f	2020-03-19
+25	3	conditionalTemplate2	test	APPLICATION	63	EXACT		2020-07-27	2020-07-29	GROUP	11	admin	ISSUED	\N	f	2020-07-29
+26	3	conditionalTemplate3	test	APPLICATION	63	EXACT		2020-07-27	2020-03-19	GROUP	11	admin	ISSUED	\N	f	2020-03-19
+27	3	conditionalTemplate3	testsdfsdf	APPLICATION	63	EXACT		2020-07-27	2020-07-31	GROUP	11	admin	ISSUED	\N	f	2020-07-31
+28	3	conditionalTemplate5	testsdf	APPLICATION	63	EXACT		2020-07-27	2020-08-01	GROUP	11	admin	ISSUED	\N	f	2020-08-01
+29	3	conditionalTemplate4	testdsfgsd	APPLICATION	63	EXACT		2020-07-27	2020-03-19	GROUP	11	admin	ISSUED	\N	f	2020-03-19
+30	3	conditionalTemplate6	test	APPLICATION	63	EXACT		2020-07-27	2020-07-28	GROUP	11	admin	ISSUED	\N	f	2020-07-28
+31	3	conditionalTemplate7	test	APPLICATION	63	EXACT		2020-07-27	2020-07-28	GROUP	11	admin	ISSUED	\N	f	2020-07-28
+32	3	conditionalTemplate10	test	APPLICATION	63	EXACT		2020-07-27	2020-07-29	GROUP	11	admin	ISSUED	\N	f	2020-07-29
+33	3	conditionalTemplate11	test	APPLICATION	63	EXACT		2020-07-27	2020-07-28	GROUP	11	admin	ISSUED	\N	f	2020-07-28
+34	3	conditionalTemplate12	test	APPLICATION	63	EXACT		2020-07-27	2020-07-24	GROUP	11	admin	ISSUED	\N	f	2020-07-24
+35	3	conditionalTemplate13	test	APPLICATION	63	EXACT		2020-07-27	2020-03-19	GROUP	11	admin	ISSUED	\N	f	2020-03-19
+36	3	conditionalTemplate15	testsdf	APPLICATION	63	EXACT		2020-07-27	2020-03-19	GROUP	11	admin	ISSUED	\N	f	2020-03-19
+37	3	conditionalTemplate1	test	APPLICATION	89	EXACT		2020-07-27	2020-08-06	GROUP	11	admin	ISSUED	\N	f	2020-08-06
+38	4	envCondTemplate1	conditionals based on environmental factors in the subject	APPLICATION	10	EXACT		2020-07-30	2020-08-07	GROUP	11	admin	ISSUED	\N	f	2020-08-07
+39	3	m t1	test	APPLICATION	75	EXACT		2020-07-31	2020-08-01	GROUP	11	admin	ISSUED	\N	f	2020-08-01
+40	3	stealthy	test	APPLICATION	1	EXACT		2022-09-05	2022-09-13	GROUP	11	admin	ISSUED		f	2022-09-15
+\.
+
+

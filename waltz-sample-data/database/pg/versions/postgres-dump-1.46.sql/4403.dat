@@ -1,0 +1,8 @@
+1	2	string	WEEKLY	QUARTERLY	frequency	2020-06-24 21:15:10.90845	admin	waltz-sample
+2	4	string	QUARTERLY	UNKNOWN	frequency	2020-06-24 21:15:10.908507	admin	waltz-sample
+3	7	string	VERY_HIGH	LOW	criticality	2020-06-24 21:15:10.908551	admin	waltz-sample
+4	9	string	QUARTERLY	REAL_TIME	frequency	2020-06-24 21:15:10.908579	admin	waltz-sample
+5	10	string	MONTHLY	YEARLY	frequency	2020-06-24 21:15:10.908601	admin	waltz-sample
+\.
+
+

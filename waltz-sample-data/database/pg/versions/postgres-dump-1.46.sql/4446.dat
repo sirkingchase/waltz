@@ -1,0 +1,75 @@
+BookmarkKind	APPLICATION_INSTANCE	Application Instance	Application Instance	desktop	0	none
+BookmarkKind	BUILD_SYSTEM	Automated Build / Deployment System	Automated Build and Deployment Systems, e.g. Teamcity, Jenkins, Hudson	simplybuilt	0	none
+BookmarkKind	BUSINESS_SPECIFICATION	Business Specification	Business Specification	briefcase	0	none
+BookmarkKind	DOCUMENTATION	Documentation	Documentation, e.g. Wiki, Sharepoint	book	0	none
+BookmarkKind	ISSUE_TRACKER	Issue Tracker	Issue Tracker, e.g. Jira, Bugzilla	tasks	0	none
+BookmarkKind	MONITORING	Monitoring	Monitoring Systems	bar-chart	0	none
+BookmarkKind	QUALITY_CONTROL	Quality Control	Quality Control Systems	sliders	0	none
+BookmarkKind	SOURCE_CODE_CONTROL	Source Code Control	Source Code Control / Management	code	0	none
+BookmarkKind	TECHNICAL_SPECIFICATION	Technical Specification	Technical Specification	tty	0	none
+CostKind	APPLICATION_DEVELOPMENT	Application Development	Application development costs	fw	0	none
+CostKind	INFRASTRUCTURE	Infrastructure	Infrastructure costs	fw	0	none
+CostKind	PERSON	Person Costs	Person costs	fw	0	none
+CostKind	CUMULATIVE	Cumulative	Cumulative costs	fw	0	none
+CostKind	OTHER	Other	Other costs	fw	0	none
+physicalFlowCriticality	LOW	Low	Low criticality	fw	0	none
+physicalFlowCriticality	MEDIUM	Medium	Medium criticality	fw	0	none
+physicalFlowCriticality	HIGH	High	High criticality	fw	0	none
+physicalFlowCriticality	VERY_HIGH	Very High	Very high criticality	fw	0	none
+physicalFlowCriticality	NONE	None	Criticality Not specified	fw	0	none
+physicalFlowCriticality	UNKNOWN	Unknown	Criticality not known	fw	0	none
+changeInitiativeLifecyclePhase	PRODUCTION	Production	Production	fw	0	none
+changeInitiativeLifecyclePhase	DEVELOPMENT	Development	Development	fw	0	none
+changeInitiativeLifecyclePhase	CONCEPTUAL	Conceptual	Conceptual	fw	0	none
+changeInitiativeLifecyclePhase	RETIRED	Retired	Retired	fw	0	none
+PersonKind	EMPLOYEE	Employee	Full time employee	fw	0	none
+PersonKind	CONSULTANT	Consultant	External consultant	fw	0	none
+PersonKind	CONTRACTOR	Contractor	External contractor	fw	0	none
+TransportKind	DATABASE_CONNECTION	Database Connection	Database connection (jdbc, odbc etc)	fw	10	none
+TransportKind	EMAIL	Email	Electronic emails	fw	20	none
+TransportKind	FILE_TRANSPORT	File Transport	File transfer (sftp, ftp, rcp etc)	fw	30	none
+TransportKind	FILE_SHARE	File Share	File share (nfs, samba etc)	fw	40	none
+TransportKind	MANUAL	Manual	Manual input (Keying in etc)	fw	50	none
+TransportKind	MESSAGING	Messaging	Messaging (queues, topics etc)	fw	60	none
+TransportKind	OTHER	Other	Other	fw	70	none
+TransportKind	RPC	Remote Procedure Call	Remote Procedure Call (CORBA etc)	fw	80	none
+TransportKind	UDP	UDP	UDP	fw	90	none
+TransportKind	UNKNOWN	Unknown	Unknown	fw	100	none
+TransportKind	WEB	Web	Web based (REST, GraphQL, HTTP etc)	fw	110	none
+scenarioType	CURRENT	Current	Current state	fw	0	none
+scenarioType	INTERIM	Interim	Interim state	fw	1	none
+scenarioType	TARGET	Target	Target state	fw	2	none
+ApprovalStatus	PENDING_APPROVAL	Pending Approval	Pending approval, therefore no current opinion	fw	10	none
+ApprovalStatus	APPROVED_ALL	Approved for all use	Approved for internal and external use	fw	20	none
+ApprovalStatus	INTERNAL_ONLY	Approved for internal use	Approved for internal use only, external use would require further review	fw	30	none
+ApprovalStatus	REJECTED_ALL	Rejected	Cannot be used	fw	40	none
+ApprovalStatus	REQUIRES_EXCEPTION	Requires Exception	Exception must be obtained before use	fw	50	none
+FreshnessIndicator	NEVER_OBSERVED	Never Observed	No communication observed	fw	0	red
+FreshnessIndicator	RECENTLY_OBSERVED	Recently Observed	The communication was observed recently	fw	0	green
+FreshnessIndicator	HISTORICALLY_OBSERVED	Historically Observed	No recent communication but there is some historic communication observed	fw	0	orange
+FreshnessIndicator	OBSERVED	Observed	Observed within a week	fw	0	orange
+AuthoritativenessRating	PRIMARY	Primary Source	Primary Sources should be the golden master	fw	0	#5BB65D
+AuthoritativenessRating	SECONDARY	Secondary Source	Secondary Sources should be authorised redistributors of data	fw	0	#B7A61F
+AuthoritativenessRating	NO_OPINION	No 	A source's rating is 'no opinion' when no primary or secondary sources have been declared for the associated data type	fw	0	#939393
+AuthoritativenessRating	DISCOURAGED	Discouraged Source	A discouraged source is one where an alternative primary or secondary source is available	fw	0	#DA524B
+DataFormatKind	BINARY	Binary	Binary	fw	0	none
+DataFormatKind	DATABASE	Database	Database	fw	0	none
+DataFormatKind	FLAT_FILE	Flat File	Flat File	fw	0	none
+DataFormatKind	JSON	JSON	JSON	fw	0	none
+DataFormatKind	OTHER	Other	Other	fw	0	none
+DataFormatKind	UNKNOWN	Unknown	Unknown	fw	0	none
+DataFormatKind	UNSTRUCTURED	Unstructured	Unstructured	fw	0	none
+DataFormatKind	XML	XML	XML	fw	0	none
+Frequency	BIANNUALLY	Biannually	Biannually	fw	0	none
+Frequency	DAILY	Daily	Daily	fw	0	none
+Frequency	INTRA_DAY	Intra Day	Intra Day	fw	0	none
+Frequency	MONTHLY	Monthly	Monthly	fw	0	none
+Frequency	ON_DEMAND	On Demand	On Demand	fw	0	none
+Frequency	QUARTERLY	Quarterly	Quarterly	fw	0	none
+Frequency	REAL_TIME	Real Time	Real Time	fw	0	none
+Frequency	UNKNOWN	Unknown	Unknown	fw	0	none
+Frequency	WEEKLY	Weekly	Weekly	fw	0	none
+Frequency	YEARLY	Yearly	Yearly	fw	0	none
+\.
+
+

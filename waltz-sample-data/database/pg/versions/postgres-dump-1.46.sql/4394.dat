@@ -1,0 +1,14 @@
+3	Regulatory Impact Assessment	\N	7	CHANGE_INITIATIVE	Indicates what impact a change initiative will have on the organizations regulatory obligations	\N	2021-03-26 06:38:25.348135	admin	f	waltz-sample	PRIMARY	Uncategorized	\N	\N
+16	Personal Data	PD	6	APPLICATION	Personal data capture	\N	2022-11-25 08:52:45.421	admin	t	waltz	SECONDARY	Data Classification	\N	\N
+14	Information Classification	CLASSIFICATION	6	APPLICATION	Highest level of data confidentiality that a system contains.\n	CUSTOM_ROLE	2022-11-25 08:52:54.182	admin	f	waltz	PRIMARY	Data Classification	\N	\N
+4	Sanctions Apply	\N	7	APPLICATION	Indicates if sanctions apply to this application!! dsds	\N	2022-11-25 08:53:08.628	admin	f	waltz-sample	PRIMARY	Regulatory	\N	\N
+25	Test Definition A	Test Definition A_1	9	APPLICATION	desc	\N	2022-11-25 08:53:22.006	admin	f	waltz	PRIMARY	Testing	\N	\N
+26	Test Definition B	Test Definition B_2	9	APPLICATION	desc	\N	2022-11-25 08:53:26.812	admin	f	waltz	SECONDARY	Testing	\N	\N
+28	Test Definition D	Test Definition D_4	9	APPLICATION	desc	\N	2022-11-25 08:53:32.353	admin	f	waltz	PRIMARY	Testing	\N	\N
+29	Test Definition E	Test Definition E_5	9	APPLICATION	desc	\N	2022-11-25 08:53:37.328	admin	f	waltz	PRIMARY	Testing	\N	\N
+30	Test Definition F	Test Definition F_6	9	APPLICATION	desc	\N	2022-11-25 08:53:42.681	admin	f	waltz	PRIMARY	Testing	\N	\N
+27	Test Definition C	Test Definition C_3	9	APPLICATION	desc	\N	2022-11-25 08:54:20.447	admin	f	waltz	PRIMARY	Testing	\N	\N
+23	Personal Data (Function)	\N	6	MEASURABLE	fsdfdsfdassasfds	\N	2022-07-19 21:03:50.532	admin	f	waltz	PRIMARY	Uncategorized	MEASURABLE_CATEGORY	1
+\.
+
+

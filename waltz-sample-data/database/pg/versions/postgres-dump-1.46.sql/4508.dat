@@ -1,0 +1,31 @@
+ADMIN	f	Admin	Administrative capabilities	t
+ANONYMOUS	f	Anonymous	Anonymous user role	t
+APP_EDITOR	f	App editor	Can modify application information	t
+ATTESTATION_ADMIN	f	Attestation Admin	Can manage attestation runs	t
+AUTHORITATIVE_SOURCE_EDITOR	f	Auth Source editor	Can modify authoritative sources	t
+BETA_TESTER	f	Beta Tester	Can use new features before general release	t
+BOOKMARK_EDITOR	f	Bookmark Editor	Can modify bookmarks	t
+CAPABILITY_EDITOR	f	Capability editor	Can modify measurable relationships	t
+CHANGE_INITIATIVE_EDITOR	f	Change Initiative editor	Can modify change initiatives	t
+LINEAGE_EDITOR	f	Lineage editor	Can create logical flow diagrams	t
+LOGICAL_DATA_FLOW_EDITOR	f	Logical flow editor	Can update logical flows	t
+ORG_UNIT_EDITOR	f	Org Unit editor	Can modify org units	t
+RATING_EDITOR	f	Rating edit	Can assign ratings to applications	t
+SCENARIO_ADMIN	f	Scenario Admin	Can create roadmaps and scenarios	t
+SCENARIO_EDITOR	f	Scenario edit	Can modify the contents of roadmap scenarios	t
+SURVEY_ADMIN	f	Survey Admin	Can administer survey runs	t
+SURVEY_TEMPLATE_ADMIN	f	Survey Template Admin	Can create and modify survey templates	t
+TAXONOMY_EDITOR	f	Taxonomy Editor	Can modify taxonomies that are flagged as editable	t
+USER_ADMIN	f	User Admin	Can modify user roles and permissions	t
+CHANGE_SET_EDITOR	f	Change Set Editor	Change Set Editor	t
+RATING_SCHEME_ADMIN	f	Rating Scheme Admin	Can modify rating schemes	t
+ASSESSMENT_DEFINITION_ADMIN	f	Assessment Definition Admin	Can modify assessment definitions	t
+REPORT_GRID_ADMIN	f	Report Grid Admin	Users can update the kind of a report grid, e.g. from private to public	t
+AGGREGATE_OVERLAY_DIAGRAM_EDITOR	f	Aggregate Overlay Diagram Editor	Can create overlay diagram instances and edit callout annotations	t
+CUSTOM_ROLE	t	Custom Role	For testing (CUSTOM_ROLE)	t
+BULK_FLOW_EDITOR	f	Bulk Flow Editor	Can upload logical and physical flows in bulk	t
+PHYSICAL_SPECIFICATION_EDITOR	f	Physical Specification Editor	Admin permissions to create, edit or remove physical specifications	t
+ACTOR_ADMIN	f	Actor Admin	Users can maintain actors through admin screens	t
+\.
+
+

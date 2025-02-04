@@ -1,0 +1,8 @@
+1	Primary Source	Primary Sources should be the golden master	PRIMARY	#5BB65D	0	f	t
+2	Secondary Source	Secondary Sources should be authorised redistributors of data	SECONDARY	#B7A61F	0	f	t
+3	No 	A source's rating is 'no opinion' when no primary or secondary sources have been declared for the associated data type	NO_OPINION	#939393	0	f	t
+4	Discouraged Source	A discouraged source is one where an alternative primary or secondary source is available	DISCOURAGED	#DA524B	0	f	t
+5	Heritage Source	A heritage is a 'blessed' source, added due to historical reasons	HERITAGE	purple	0	t	t
+\.
+
+

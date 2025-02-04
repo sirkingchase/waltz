@@ -1,0 +1,8 @@
+1	Application Development	Application development costs	f	APPLICATION_DEVELOPMENT
+2	Infrastructure	Infrastructure costs	f	INFRASTRUCTURE
+3	TCO	Total Cost of Ownership is a sum of RTB, CTB and Amortisation values for an entity	t	TCO
+4	Cloud Migration	Cloud Migration	f	CLOUD
+5	Depreciation	Depreciation	f	DEPRECIATION
+\.
+
+

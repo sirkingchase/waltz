@@ -1,0 +1,10 @@
+2	Process	Business Processes	PROCESS	2020-06-24 22:12:40.262299	admin	1	f	RATING_EDITOR	\N
+3	Service	Business Services	SERVICE	2020-06-24 22:12:40.262299	admin	1	f	RATING_EDITOR	\N
+4	Product	Product	PRODUCT	2020-06-24 22:12:40.262299	admin	1	f	RATING_EDITOR	\N
+5	Region	Region	REGION	2020-06-24 22:12:40.262299	admin	1	f	RATING_EDITOR	\N
+6	Regulation	regulation	REGULATION	2020-06-24 22:14:57.917536	admin	1	f	RATING_EDITOR	\N
+1	Function	Business Function	CAPABILITY	2020-06-24 22:12:40.262299	admin	1	t	RATING_EDITOR	\N
+7	Stress Test	Stress Test	STRESS	2022-09-13 16:10:41.248	admin	1	f	RATING_EDITOR	\N
+\.
+
+

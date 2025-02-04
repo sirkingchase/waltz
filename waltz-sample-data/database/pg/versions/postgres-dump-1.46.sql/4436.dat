@@ -1,0 +1,12 @@
+SDLC Compliance	description	ENUM	COMPLIANCE	t	enum	enum	waltz-sample	\N	10000	t	t	COUNT_BY_ENTITY
+SDLC Technology	description	ENUM	COMPLIANCE	t	enum	enum	waltz-sample	10000	10100	t	t	COUNT_BY_ENTITY
+SDLC Process	description	ENUM	COMPLIANCE	t	enum	enum	waltz-sample	10000	10200	t	t	COUNT_BY_ENTITY
+SDLC Tech Jira	description	ENUM	COMPLIANCE	t	enum	enum	waltz-sample	10100	10101	t	t	COUNT_BY_ENTITY
+SDLC Tech SVN	description	ENUM	COMPLIANCE	t	enum	enum	waltz-sample	10100	10102	t	t	COUNT_BY_ENTITY
+SDLC Tech Wiki	description	ENUM	COMPLIANCE	t	enum	enum	waltz-sample	10100	10103	t	t	COUNT_BY_ENTITY
+Open Audit Issues	Audit stuff and things	NUMERIC	SECURITY	t	bar	bar	waltz-sample	\N	20000	t	t	COUNT_BY_ENTITY
+Server Type Count	Server Types	NUMERIC	SECURITY	t	bar	bar	waltz-sample	\N	20010	t	t	SUM_BY_VALUE
+Pre Computed	description	ENUM	COMPLIANCE	t	enum	enum	waltz-sample	\N	11000	t	t	NONE
+\.
+
+

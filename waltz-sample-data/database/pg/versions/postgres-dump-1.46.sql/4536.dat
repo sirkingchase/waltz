@@ -1,0 +1,33 @@
+1	1	Is your app accessible via a browser	BOOLEAN		10	t	f	IE11, Chrome, FFox etc	\N	\N	\N	\N	\N	\N
+2	1	What percentage of your code base has tests	NUMBER		20	t	t	Approximation is fine (0-100)	\N	\N	\N	\N	\N	\N
+3	1	What is the primary goal for the next release	TEXTAREA		30	t	f		\N	\N	\N	\N	\N	\N
+4	1	Who is your primary customer	TEXT		40	f	f		\N	\N	\N	\N	\N	\N
+5	2	Does this program change operational risk ?	BOOLEAN		10	t	t	If yes add a comment	\N	\N	\N	\N	\N	\N
+6	2	How many months will this programme take to implement?	NUMBER		20	t	t		\N	\N	\N	\N	\N	\N
+7	2	What steps have you taken to ensure compliance with policies?	TEXTAREA		30	t	f		\N	\N	\N	\N	\N	\N
+8	2	Who is the primary stakeholder?	TEXT		40	f	f		\N	\N	\N	\N	\N	\N
+9	3	In scope?	BOOLEAN	first section	10	t	f		IN_SCOPE	\N	\N	\N	\N	\N
+10	3	description of remediation	TEXTAREA	first section	20	f	f		COMMENTARY	isChecked('IN_SCOPE', false)	\N	\N	\N	\N
+13	3	Are you intending to learn to drive in the next 6 months?	BOOLEAN	first section	50	f	f		LEARN	ditto('DRIVER') && !isChecked('DRIVER')	\N	\N	\N	\N
+14	3	How is your manager	PERSON		60	f	f	adas	\N	\N	\N	\N	\N	\N
+15	3	Which app is yours?	APPLICATION		70	f	f	dasda	\N	\N	\N	\N	\N	\N
+12	3	Do you hold a drivers licence ?	BOOLEAN	first section	40	t	t		DRIVER	numberValue('AGE') >= 17 && isChecked('IN_SCOPE')	\N	\N	\N	\N
+16	3	Favourite Colour	DROPDOWN	Second Section	80	f	t		MULTI	isChecked('IN_SCOPE', false)	\N	\N	\N	\N
+17	3	Known Languages	DROPDOWN_MULTI_SELECT	Second Section	90	t	f		LANGS	isChecked('IN_SCOPE', false)	\N	\N	\N	\N
+18	3	When is your birthday ?	DATE	Second Section	100	t	f		BIRTHDAY	isChecked('IN_SCOPE', false)	\N	\N	\N	\N
+19	4	In scope?	BOOLEAN	first section	10	t	f		IN_SCOPE	\N	\N	\N	\N	\N
+20	4	description of remediation	TEXTAREA	first section	20	f	f		COMMENTARY	isChecked('IN_SCOPE', false)	\N	\N	\N	\N
+21	4	How old are you?	NUMBER	first section	30	f	f	age in whole years please	AGE	isChecked('IN_SCOPE', false)	\N	\N	\N	\N
+22	4	Do you hold a drivers licence ?	BOOLEAN	first section	40	t	t		DRIVER	numberValue('AGE') >= 17 && isChecked('IN_SCOPE')	\N	\N	\N	\N
+23	4	Are you intending to learn to drive in the next 6 months?	BOOLEAN	first section	50	f	f		LEARN	ditto('DRIVER') && !isChecked('DRIVER')	\N	\N	\N	\N
+24	4	How is your manager	PERSON		60	f	f	adas	\N	\N	\N	\N	\N	\N
+25	4	Which app is yours?	APPLICATION		70	f	f	dasda	\N	\N	\N	\N	\N	\N
+26	4	Favourite Colour	DROPDOWN	Second Section	80	f	t		MULTI	isChecked('IN_SCOPE', false)	\N	\N	\N	\N
+27	4	Known Languages	DROPDOWN_MULTI_SELECT	Second Section	90	t	f		LANGS	isChecked('IN_SCOPE', false)	\N	\N	\N	\N
+28	4	When is your birthday ?	DATE	Second Section	100	t	f		BIRTHDAY	isChecked('IN_SCOPE', false)	\N	\N	\N	\N
+29	4	Which settlement services do you use ?	DROPDOWN_MULTI_SELECT	Env Cond	110	t	f		SETT	ctx('SETTLEMENTS')  && isChecked('IN_SCOPE')	\N	\N	\N	\N
+30	3	Select functions	MEASURABLE_MULTI_SELECT		10	t	t		\N	\N	1	MEASURABLE_CATEGORY	\N	\N
+11	3	How old are you?	NUMBER	first section	30	f	t	age in whole years please	AGE	isChecked('IN_SCOPE', false)	\N	\N	\N	\N
+\.
+
+

@@ -1,0 +1,15 @@
+1	2	PHYSICAL_FLOW	604	ACTIVE	RETIRE	PENDING	retire physical flow with id: 604	Description: retire physical flow with id: 604	2020-06-24 22:15:10.86088	admin	change-unit-ext-1	waltz-sample
+2	2	PHYSICAL_FLOW	324	ACTIVE	MODIFY	PENDING	modify physical flow with id: 324	Description: modify physical flow with id: 324	2020-06-24 22:15:10.86088	admin	change-unit-ext-2	waltz-sample
+3	2	PHYSICAL_FLOW	590	ACTIVE	RETIRE	PENDING	retire physical flow with id: 590	Description: retire physical flow with id: 590	2020-06-24 22:15:10.86088	admin	change-unit-ext-3	waltz-sample
+4	2	PHYSICAL_FLOW	420	ACTIVE	MODIFY	PENDING	modify physical flow with id: 420	Description: modify physical flow with id: 420	2020-06-24 22:15:10.86088	admin	change-unit-ext-4	waltz-sample
+5	3	PHYSICAL_FLOW	25	ACTIVE	RETIRE	PENDING	retire physical flow with id: 25	Description: retire physical flow with id: 25	2020-06-24 22:15:10.86088	admin	change-unit-ext-5	waltz-sample
+6	3	PHYSICAL_FLOW	239	ACTIVE	RETIRE	PENDING	retire physical flow with id: 239	Description: retire physical flow with id: 239	2020-06-24 22:15:10.86088	admin	change-unit-ext-6	waltz-sample
+7	3	PHYSICAL_FLOW	260	ACTIVE	MODIFY	PENDING	modify physical flow with id: 260	Description: modify physical flow with id: 260	2020-06-24 22:15:10.86088	admin	change-unit-ext-7	waltz-sample
+8	4	PHYSICAL_FLOW	231	ACTIVE	RETIRE	PENDING	retire physical flow with id: 231	Description: retire physical flow with id: 231	2020-06-24 22:15:10.86088	admin	change-unit-ext-8	waltz-sample
+9	4	PHYSICAL_FLOW	28	ACTIVE	MODIFY	PENDING	modify physical flow with id: 28	Description: modify physical flow with id: 28	2020-06-24 22:15:10.86088	admin	change-unit-ext-9	waltz-sample
+10	4	PHYSICAL_FLOW	493	ACTIVE	MODIFY	PENDING	modify physical flow with id: 493	Description: modify physical flow with id: 493	2020-06-24 22:15:10.86088	admin	change-unit-ext-10	waltz-sample
+11	4	PHYSICAL_FLOW	335	ACTIVE	RETIRE	PENDING	retire physical flow with id: 335	Description: retire physical flow with id: 335	2020-06-24 22:15:10.86088	admin	change-unit-ext-11	waltz-sample
+12	5	PHYSICAL_FLOW	351	PENDING	ACTIVATE	PENDING	activate physical flow with id: 351	Description: activate physical flow with id: 351	2020-06-24 22:15:10.86088	admin	change-unit-ext-12	waltz-sample
+\.
+
+

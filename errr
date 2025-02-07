@@ -1,0 +1,5 @@
+java -jar sl-build-scanner.jar -config -tokenfile sltoken.txt -appname "TheWaltz" -branchname "master" -buildname "2" -pi "*org.finos.*"
+
+java -jar sl-build-scanner.jar -scan -tokenfile sltoken.txt -buildsessionidfile buildSessionId.txt -workspacepath "/mnt/d/github/waltz" -fi "*" -r -moduleName "Waltz2"
+
+waltz-waltz-1     | [SEALIGHTS] 2025-02-07 05:04:01,170 ERROR [7|main        |001] i.s.onpremise.agents.ftv.FtvAgent : failed to acquire build-session data, abortingjava.lang.RuntimeException: java.lang.RuntimeException: io.sealights.onpremise.agents.infra.http.client.HttpExceptions$SLHttpException: Failed to send 'POST' request to '/api/v3/agents/build-sessions'. Error: io.sealights.onpremise.agents.infra.http.client.HttpExceptions$SLHttpException: Server response error: status code=412 and body=, body:'{"error":{"code":4005,"message":"build session already exists with different checksum, actual checksum: 2, existing checksum: null"}}'

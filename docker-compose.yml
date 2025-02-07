@@ -2,10 +2,10 @@ version: "3.9"
 services:
   waltz:
     image: ghcr.io/finos/waltz:latest
-    #volumes:
-    #  - ${PWD}/sealights:/mnt/sealights
-    #environment:
-    #  - JAVA_OPTS=-javaagent:/mnt/sealights/sl-cd-agent.jar -Dsl.tokenFile=/mnt/sealights/sltoken.txt -Dsl.appName=TheWaltz -Dsl.branchName=master -Dsl.buildName=3222 -Dsl.tags=script,container -Dsl.labId=integ_test_microservices -Dsl.includes="*org.finos.*"
+    volumes:
+      - ${PWD}/sealights:/mnt/sealights
+    environment:
+      - JAVA_OPTS=-javaagent:/mnt/sealights/sl-cd-agent.jar -Dsl.tokenFile=/mnt/sealights/sltoken.txt -Dsl.appName=TheWaltz -Dsl.branchName=master -Dsl.tags=script,container -Dsl.labId=integ_test_microservices -Dsl.includes="*org.finos.*"
     command: ["run"]
     ports:
       - "8080:8080"

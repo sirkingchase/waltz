@@ -382,14 +382,14 @@
             </properties>
             <dependencies>
                 <dependency>
-                    <groupId>${jdbc.group}</groupId>
-                    <artifactId>${jdbc.artifact}</artifactId>
-                    <version>${jdbc.version}</version>
+                    <groupId>org.postgresql</groupId>
+                    <artifactId>postgresql</artifactId>
+                    <version>42.7.5</version>
                 </dependency>
                 <dependency>
-                    <groupId>${jooq.group}</groupId>
+                    <groupId>org.jooq</groupId>
                     <artifactId>jooq</artifactId>
-                    <version>${jooq.version}</version>
+                    <version>3.19.8</version>
                 </dependency>
             </dependencies>
         </profile>
